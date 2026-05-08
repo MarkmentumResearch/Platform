@@ -1,9 +1,21 @@
+import streamlit as st
+st.set_page_config(page_title="Markmentum – About", layout="wide", initial_sidebar_state="expanded")
+
+from utils.auth import verify_proof, make_proof, restore_session_from_cookie2
+
+# --- Gate Morning Compass ---
+if not st.session_state.get("authenticated"):
+    home_url = "https://www.markmentumresearch.com/reauth"
+    st.markdown(
+        f'<meta http-equiv="refresh" content="0; url={home_url}" />',
+        unsafe_allow_html=True
+    )
+    st.stop()
 
 
 import base64
 from pathlib import Path
 import pandas as pd
-import streamlit as st
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 from matplotlib import rcParams
@@ -13,25 +25,25 @@ import streamlit.components.v1 as components
 
 # --- NO-REDIRECT LANDING GUARD (place at the top of 01_About.py) ---
 # 1) Absolute safe mode (via secret or ?safe=1) — never leave About.
-safe_mode = bool(st.secrets.get("SAFE_MODE", False)) or st.query_params.get("safe", ["0"])[0] == "1"
-if safe_mode:
+#safe_mode = bool(st.secrets.get("SAFE_MODE", False)) or st.query_params.get("safe", ["0"])[0] == "1"
+#if safe_mode:
     # Pin the session to About and clear params that some routers use
-    st.session_state["_disable_redirects"] = True
-    st.session_state["_last_route"] = "about"
-    if st.query_params:
-        st.query_params.clear()
+#    st.session_state["_disable_redirects"] = True
+#    st.session_state["_last_route"] = "about"
+#    if st.query_params:
+#        st.query_params.clear()
     # Optional: a tiny note while testing (remove if you like)
-    st.caption("Safe mode: redirects disabled on landing.")
+#    st.caption("Safe mode: redirects disabled on landing.")
     # Stop here so nothing else can trigger a reroute
-    st.stop()
+#    st.stop()
 
 # 2) For normal visitors, still pin the initial route to 'about' and normalize params.
 #    This doesn't stop the page; it just makes your routers idempotent.
-if not st.session_state.get("_last_route"):
-    st.session_state["_last_route"] = "about"
+#if not st.session_state.get("_last_route"):
+#    st.session_state["_last_route"] = "about"
 # If you use a query-param router elsewhere, neutralize it on About:
-if st.query_params:
-    st.query_params.clear()
+#if st.query_params:
+#    st.query_params.clear()
 # -------------------------------------------------------------------
 
 
@@ -39,8 +51,6 @@ if st.query_params:
 # -------------------------
 # Page & shared style
 # -------------------------
-st.cache_data.clear()
-st.set_page_config(page_title="Markmentum – About", layout="wide", initial_sidebar_state="expanded")
 
 # Always expand sidebar on page load (safe: only clicks if collapsed control is present)
 components.html("""
@@ -131,7 +141,7 @@ st.markdown(
 <div style="max-width:900px; margin: 0 auto;">
 
 <p style="font-weight:600; margin:12px 0 18px;">
-Markets + Momentum = Markmentum Research.  The equation to achieve trading, investing, and portfolio management success.
+Markets + Momentum = Markmentum Research.  A structured framework for disciplined trading, investing, and portfolio management.
 </p>
 
 <p style="font-weight:600; margin:12px 0 18px;">
@@ -139,11 +149,6 @@ We deliver volatility-adjusted probable ranges, proprietary scoring, and AI-gene
 </p>
 
 <p style="font-weight:600; margin:12px 0 18px;">You're the captain. We provide the coordinates. Let us help you navigate markets with clarity and confidence.</p>
-
-<h3>Preview</h3>
-<ul>
-  <li><b>Demo</b> –  This is a limited preview of Markmentum Research for informational and educational use. It showcases the full feature set with production-grade data. The subscription launch is coming soon.</li>
-</ul>
 
 <h3>Why Markmentum Research</h3>
 <p>
@@ -161,7 +166,7 @@ We deliver volatility-adjusted probable ranges, proprietary scoring, and AI-gene
 <h3>What we publish</h3>
 <ul>
   <li><b>Probable Ranges &amp; Probable Anchors</b> – Forward ranges that frame upside/downside by day, week, and month, plus long-term probable anchor levels to gauge extension and mean-reversion risk.</li>
-  <li><b>Directional Trends</b> – Short, mid, and long-term trend lines alongside their changes with tape bias cues (Buy/Sell, Leaning Bullish/Bearish, Neutral, Topping/Bottoming).</li>
+  <li><b>Directional Trends</b> – Volatility-adjusted composite trend signals across short-, mid-, and long-term horizons, including change signals and objective tape bias (Buy/Sell • Leaning Bullish/Bearish • Neutral • Topping/Bottoming).</li>
   <li><b>Volatility Stats</b> – Implied (Ivol) vs. Realized (Rvol) spreads, percentile ranks, and Z-Scores to spot crowding and regime shifts.</li>
   <li><b>Markmentum Score</b> – a rules-based, volatility-adjusted risk–reward score — the navigator allowing you, the captain, to steer the ship to your destination with clarity and confidence.</li>
   <li><b>Heatmaps</b> – Data tables and heatmaps for broad performance distribution, risk-adjusted performance layer, and core signal distribution to surface opportunity and risk fast.</li>
@@ -174,7 +179,7 @@ We deliver volatility-adjusted probable ranges, proprietary scoring, and AI-gene
   <li><b>Morning Compass</b> – Your orientation dashboard across major indices, sectors, and macro levers — with a one-click Daily / Weekly / Monthly selector. 
   Displays probable ranges, risk/reward bias, and Markmentum Scores for key macro exposures (Indices, S&P 500 sectors, Gold, USD, TLT, BTC Futures), plus top 5 gainers and laggards by % change and by Markmentum Score, 
   along with an optional category snapshot for deeper drill-downs. On the Daily view, Morning Compass also includes USD and Rates Correlation snapshots, showing how equities, sectors, commodities, and other assets have recently moved 
-  relative to the U.S. Dollar (via DXY) and 10-Year Treasury yields — helping frame near-term sensitivity and cross-asset influences. Auto-refreshed for a concise, data-first read on market direction, sector leadership and risk sentiment.</li>
+  relative to the U.S. Dollar (via DXY) and 10-Year Treasury yields — helping frame near-term sensitivity and cross-asset influences. Auto-refreshed for a concise, data-first read on market direction, sector and individual name leadership, and risk/reward positioning.</li>
   <li><b>Market Overview</b> – A single, unified page with a timeframe selector (Daily / Weekly / Monthly / Quarterly). Each view displays the top percentage gainers and decliners, Most Active (Shares), and Markmentum Score change distribution.
     The Daily view additionally includes the Top-10 Highest and Lowest Markmentum Scores, a Markmentum Score histogram, and the Opportunity Density report, which summarizes the distribution of Buy, Neutral, and Sell setups across categories based on Risk/Reward and Markmentum Score thresholds.
       At the bottom of the page, each timeframe features an AI-generated Market Read summarizing key market dynamics and macro context.</li>
