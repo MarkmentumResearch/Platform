@@ -1,0 +1,11 @@
+Ticker,Ticker_name,Category,Date,model_score,R/R Ratio
+BRO,"BROWN & BROWN, INC.",Financials,2026-05-07,-81.0,-4.0
+AXON,"AXON ENTERPRISE, INC.",Industrials,2026-05-07,-67.0,-29.4
+DVA,DAVITA INC.,Health Care,2026-05-07,-60.0,-7.0
+BAX,BAXTER INTERNATIONAL INC.,Health Care,2026-05-07,-52.0,-3.3
+NKE,"NIKE, INC.",Consumer Discretionary,2026-05-07,-52.0,-3.2
+BDX,"BECTON, DICKINSON AND COMPANY",Health Care,2026-05-07,-49.0,-27.4
+CAG,"CONAGRA BRANDS, INC.",Consumer Staples,2026-05-07,-47.0,-5.7
+GWW,"W.W. GRAINGER, INC.",Industrials,2026-05-07,-47.0,-3.6
+FICO,FAIR ISAAC ,Information Technology,2026-05-07,-46.0,-5.0
+DOC,"HEALTHDOC PROPERTIES, INC.",Real Estate,2026-05-07,-43.0,-7.8
