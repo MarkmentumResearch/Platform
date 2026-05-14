@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-INTC,INTEL ,Information Technology,2026-05-12,352.0
-NVDA,NVIDIA ,Information Technology,2026-05-12,319.86
-MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-05-12,144.72
-TSLA,"TESLA, INC.",Consumer Discretionary,2026-05-12,138.95
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-05-12,98.21
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-05-12,91.02
-AAPL,APPLE INC.,Information Technology,2026-05-12,88.0
-AMD,"ADVANCED MICRO DEVICES, INC.",Information Technology,2026-05-12,85.23
-NFLX,"NETFLIX, INC.",Communication Services,2026-05-12,84.11
-QCOM,QUALCOMM INC.,Information Technology,2026-05-12,84.06
+NVDA,NVIDIA ,Information Technology,2026-05-13,470.27
+INTC,INTEL ,Information Technology,2026-05-13,467.37
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-05-13,307.28
+TSLA,"TESLA, INC.",Consumer Discretionary,2026-05-13,207.23
+MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-05-13,199.59
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-05-13,142.41
+AAPL,APPLE INC.,Information Technology,2026-05-13,140.68
+EWZ,ISHARES:MSCI BRAZIL,Foreign,2026-05-13,135.74
+PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,2026-05-13,135.38
+QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-05-13,121.9
