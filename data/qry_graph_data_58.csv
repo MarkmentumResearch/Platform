@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,mtd_return_pct
-DDOG,"DATADOG, INC.",Information Technology,2026-05-15,0.5733
-AKAM,"AKAMAI TECHNOLOGIES, INC.",Information Technology,2026-05-15,0.4651
-FTNT,"FORTINET, INC.",Information Technology,2026-05-15,0.4563
-MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-05-15,0.4012
-PANW,"PALO ALTO NETWORKS, INC.",Information Technology,2026-05-15,0.3542
-CRWD,"CROWDSTRIKE HOLDINGS, INC.",Information Technology,2026-05-15,0.3328
-CSCO,"CISCO SYSTEMS, INC.",Information Technology,2026-05-15,0.2919
-HUM,HUMANA INC.,Health Care,2026-05-15,0.2905
-DVA,DAVITA INC.,Health Care,2026-05-15,0.2875
-SNDK,SANDISK CORPORATION,Information Technology,2026-05-15,0.2837
+DDOG,"DATADOG, INC.",Information Technology,2026-05-18,0.5797
+FTNT,"FORTINET, INC.",Information Technology,2026-05-18,0.5004
+AKAM,"AKAMAI TECHNOLOGIES, INC.",Information Technology,2026-05-18,0.4641
+CRWD,"CROWDSTRIKE HOLDINGS, INC.",Information Technology,2026-05-18,0.3883
+PANW,"PALO ALTO NETWORKS, INC.",Information Technology,2026-05-18,0.3805
+MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-05-18,0.3179
+CSCO,"CISCO SYSTEMS, INC.",Information Technology,2026-05-18,0.2992
+HUM,HUMANA INC.,Health Care,2026-05-18,0.2942
+DVA,DAVITA INC.,Health Care,2026-05-18,0.2861
+GEN,GEN DIGITAL INC.,Information Technology,2026-05-18,0.2618
