@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-05-18,146.28
-INTC,INTEL ,Information Technology,2026-05-18,145.76
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-05-18,69.71
-RIG,TRANSOCEAN LTD,MR Discretion,2026-05-18,61.59
-MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-05-18,60.04
-TSLA,"TESLA, INC.",Consumer Discretionary,2026-05-18,52.47
-NOW,"SERVICENOW, INC.",Information Technology,2026-05-18,51.22
-QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-05-18,49.83
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-05-18,47.84
-PCG,PG&E ,Utilities,2026-05-18,42.16
+INTC,INTEL ,Information Technology,2026-05-19,296.0
+NVDA,NVIDIA ,Information Technology,2026-05-19,287.23
+MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-05-19,121.83
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-05-19,111.13
+NOW,"SERVICENOW, INC.",Information Technology,2026-05-19,106.85
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-05-19,102.1
+RIG,TRANSOCEAN LTD,MR Discretion,2026-05-19,99.44
+TSLA,"TESLA, INC.",Consumer Discretionary,2026-05-19,98.97
+QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-05-19,96.66
+HYG,ISHARES:IBOXX $HY CORP,Bonds,2026-05-19,81.5

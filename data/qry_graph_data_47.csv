@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,change_pct
-DXCM,"DEXCOM, INC.",Health Care,2026-05-18,-0.1372
-NOW,"SERVICENOW, INC.",Information Technology,2026-05-18,-0.1366
-HUM,HUMANA INC.,Health Care,2026-05-18,-0.1351
-CRWD,"CROWDSTRIKE HOLDINGS, INC.",Information Technology,2026-05-18,-0.1292
-CNC,CENTENE ,Health Care,2026-05-18,-0.125
-IT,"GARTNER, INC.",Information Technology,2026-05-18,-0.1229
-PANW,"PALO ALTO NETWORKS, INC.",Information Technology,2026-05-18,-0.1209
-GEN,GEN DIGITAL INC.,Information Technology,2026-05-18,-0.1187
-DDOG,"DATADOG, INC.",Information Technology,2026-05-18,-0.1134
-FTNT,"FORTINET, INC.",Information Technology,2026-05-18,-0.1101
+DXCM,"DEXCOM, INC.",Health Care,2026-05-19,-0.1492
+HUM,HUMANA INC.,Health Care,2026-05-19,-0.1434
+CNC,CENTENE ,Health Care,2026-05-19,-0.1361
+CMBT,CMB.TECH NV,MR Discretion,2026-05-19,-0.1343
+DDOG,"DATADOG, INC.",Information Technology,2026-05-19,-0.1301
+IT,"GARTNER, INC.",Information Technology,2026-05-19,-0.1144
+CRWD,"CROWDSTRIKE HOLDINGS, INC.",Information Technology,2026-05-19,-0.1116
+GEN,GEN DIGITAL INC.,Information Technology,2026-05-19,-0.111
+SM,SM ENERGY COMPANY,MR Discretion,2026-05-19,-0.1066
+FTNT,"FORTINET, INC.",Information Technology,2026-05-19,-0.1061
