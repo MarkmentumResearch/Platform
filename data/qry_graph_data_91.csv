@@ -1,23 +1,23 @@
 Category,Buy,Neutral,Sell,Total,Buy_Pct,Neutral_Pct,Sell_Pct
-Sector & Style ETFs,14,13,0,27,51.9,48.1,0.0
-Indices,4,1,0,5,80.0,20.0,0.0
-Futures,3,0,0,3,100.0,0.0,0.0
+Sector & Style ETFs,0,24,3,27,0.0,88.9,11.1
+Indices,0,5,0,5,0.0,100.0,0.0
+Futures,0,3,0,3,0.0,100.0,0.0
 Currencies,0,6,0,6,0.0,100.0,0.0
-Commodities,7,11,1,19,36.8,57.9,5.3
+Commodities,1,18,0,19,5.3,94.7,0.0
 Bonds,0,13,0,13,0.0,100.0,0.0
-Yields,0,3,0,3,0.0,100.0,0.0
-Volatility,1,1,0,2,50.0,50.0,0.0
-Foreign,9,29,0,38,23.7,76.3,0.0
-Communication Services,3,15,2,20,15.0,75.0,10.0
-Consumer Discretionary,5,38,5,48,10.4,79.2,10.4
-Consumer Staples,3,26,7,36,8.3,72.2,19.4
-Energy,0,17,4,21,0.0,81.0,19.0
-Financials,11,60,5,76,14.5,78.9,6.6
-Health Care,6,38,15,59,10.2,64.4,25.4
-Industrials,22,54,3,79,27.8,68.4,3.8
-Information Technology,27,42,4,73,37.0,57.5,5.5
-Materials,12,14,0,26,46.2,53.8,0.0
-Real Estate,1,25,5,31,3.2,80.6,16.1
-Utilities,0,23,8,31,0.0,74.2,25.8
-MR Discretion,7,23,7,37,18.9,62.2,18.9
-Total,135,452,66,653,20.7,69.2,10.1
+Yields,2,1,0,3,66.7,33.3,0.0
+Volatility,2,0,0,2,100.0,0.0,0.0
+Foreign,0,31,7,38,0.0,81.6,18.4
+Communication Services,3,13,4,20,15.0,65.0,20.0
+Consumer Discretionary,1,26,21,48,2.1,54.2,43.8
+Consumer Staples,3,28,5,36,8.3,77.8,13.9
+Energy,1,18,2,21,4.8,85.7,9.5
+Financials,8,50,18,76,10.5,65.8,23.7
+Health Care,7,34,18,59,11.9,57.6,30.5
+Industrials,5,57,17,79,6.3,72.2,21.5
+Information Technology,8,58,7,73,11.0,79.5,9.6
+Materials,3,19,4,26,11.5,73.1,15.4
+Real Estate,0,16,15,31,0.0,51.6,48.4
+Utilities,0,26,5,31,0.0,83.9,16.1
+MR Discretion,1,32,4,37,2.7,86.5,10.8
+Total,45,478,130,653,6.9,73.2,19.9
