@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,mtd_return_pct
-ZTS,ZOETIS INC.,Health Care,2026-05-20,-0.3067
-CDW,CDW ,Information Technology,2026-05-20,-0.2242
-ANET,"ARISTA NETWORKS, INC.",Information Technology,2026-05-20,-0.1866
-CVNA,CARVANA CO.,Consumer Discretionary,2026-05-20,-0.18
+ZTS,ZOETIS INC.,Health Care,2026-05-21,-0.3036
+CDW,CDW ,Information Technology,2026-05-21,-0.2193
+INTU,INTUIT INC.,Information Technology,2026-05-21,-0.2096
+CVNA,CARVANA CO.,Consumer Discretionary,2026-05-21,-0.1866
+LDOS,"LEIDOS HOLDINGS, INC.",Industrials,2026-05-21,-0.1754
 TRMB,TRIMBLE INC.,Information Technology,2026-05-20,-0.1686
-LDOS,"LEIDOS HOLDINGS, INC.",Industrials,2026-05-20,-0.1664
-APH,AMPHENOL ,Information Technology,2026-05-20,-0.1645
-URNM,SPROTT URANIUM MINERS,MR Discretion,2026-05-20,-0.1622
-TECH,BIO-TECHNE ,Health Care,2026-05-20,-0.1558
-CCJ,CAMECO ,MR Discretion,2026-05-20,-0.1546
+URNM,SPROTT URANIUM MINERS,MR Discretion,2026-05-21,-0.1527
+APH,AMPHENOL ,Information Technology,2026-05-21,-0.1522
+POOL,POOL ,Consumer Discretionary,2026-05-21,-0.1483
+CRH,CRH PUBLIC LIMITED COMPANY,Materials,2026-05-21,-0.1469
