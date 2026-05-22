@@ -2233,7 +2233,7 @@ ADV_WIDGET_KEY = "dd_show_advanced_charts_widget"  # widget’s own state
 
 # 1) Initialize master value once per browser session
 if ADV_VALUE_KEY not in st.session_state:
-    st.session_state[ADV_VALUE_KEY] = True   # or True if you want default ON
+    st.session_state[ADV_VALUE_KEY] = TRUE   # or True if you want default ON
 
 def _on_adv_toggle():
     """
