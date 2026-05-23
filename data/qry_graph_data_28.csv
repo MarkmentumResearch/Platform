@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-05-21,203.38
-INTC,INTEL ,Information Technology,2026-05-21,102.45
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-05-21,72.52
-WMT,WALMART INC.,Consumer Staples,2026-05-21,53.01
-STLA,STELLANTIS NV,MR Discretion,2026-05-21,47.9
-XLE,SEL SECTOR:ENERGY SPDR,Sector & Style ETFs,2026-05-21,45.85
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-05-21,43.33
-AAPL,APPLE INC.,Information Technology,2026-05-21,42.97
-TSLA,"TESLA, INC.",Consumer Discretionary,2026-05-21,42.64
-MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-05-21,42.46
+NVDA,NVIDIA ,Information Technology,2026-05-22,169.28
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-05-22,109.71
+INTC,INTEL ,Information Technology,2026-05-22,82.66
+HPQ,HP INC.,Information Technology,2026-05-22,48.67
+TSLA,"TESLA, INC.",Consumer Discretionary,2026-05-22,46.1
+AAPL,APPLE INC.,Information Technology,2026-05-22,43.67
+XLE,SEL SECTOR:ENERGY SPDR,Sector & Style ETFs,2026-05-22,42.43
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-05-22,41.76
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-05-22,39.44
+MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-05-22,36.0
