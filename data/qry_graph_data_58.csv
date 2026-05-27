@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,mtd_return_pct
-DDOG,"DATADOG, INC.",Information Technology,2026-05-22,0.6818
-FTNT,"FORTINET, INC.",Information Technology,2026-05-22,0.5885
-CRWD,"CROWDSTRIKE HOLDINGS, INC.",Information Technology,2026-05-22,0.4884
-PANW,"PALO ALTO NETWORKS, INC.",Information Technology,2026-05-22,0.4532
-MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-05-22,0.4522
-AKAM,"AKAMAI TECHNOLOGIES, INC.",Information Technology,2026-05-22,0.4297
-DELL,DELL TECHNOLOGIES INC.,Information Technology,2026-05-22,0.4127
-SNDK,SANDISK CORPORATION,Information Technology,2026-05-22,0.3485
-QCOM,QUALCOMM INC.,Information Technology,2026-05-22,0.3262
-AMD,"ADVANCED MICRO DEVICES, INC.",Information Technology,2026-05-22,0.3188
+MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-05-26,0.7323
+DDOG,"DATADOG, INC.",Information Technology,2026-05-26,0.6919
+FTNT,"FORTINET, INC.",Information Technology,2026-05-26,0.5889
+CRWD,"CROWDSTRIKE HOLDINGS, INC.",Information Technology,2026-05-26,0.5066
+DELL,DELL TECHNOLOGIES INC.,Information Technology,2026-05-26,0.4601
+SNDK,SANDISK CORPORATION,Information Technology,2026-05-26,0.4496
+AKAM,"AKAMAI TECHNOLOGIES, INC.",Information Technology,2026-05-26,0.4392
+PANW,"PALO ALTO NETWORKS, INC.",Information Technology,2026-05-26,0.4318
+AMD,"ADVANCED MICRO DEVICES, INC.",Information Technology,2026-05-26,0.4215
+QCOM,QUALCOMM INC.,Information Technology,2026-05-26,0.3856
