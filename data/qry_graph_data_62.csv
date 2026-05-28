@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score_mtd_change,current_model_score,previous_model_score
-DVA,DAVITA INC.,Health Care,2026-05-26,-110.0,-100.0,10.0
-EFX,EQUIFAX INC.,Industrials,2026-05-26,-101.0,-46.0,55.0
-BBY,"BEST BUY CO., INC.",Consumer Discretionary,2026-05-26,-97.0,-50.0,47.0
-AKAM,"AKAMAI TECHNOLOGIES, INC.",Information Technology,2026-05-26,-96.0,-60.0,36.0
-RSG,"REPUBLIC SERVICES, INC.",Industrials,2026-05-26,-93.0,-79.0,14.0
-CRM,"SALESFORCE, INC.",Information Technology,2026-05-26,-90.0,-52.0,38.0
-ADSK,"AUTODESK, INC.",Information Technology,2026-05-26,-85.0,-65.0,20.0
-NTAP,"NETAPP, INC.",Information Technology,2026-05-26,-83.0,-77.0,6.0
-GEN,GEN DIGITAL INC.,Information Technology,2026-05-26,-81.0,-70.0,11.0
-FIS,FIDELITY NATIONAL INFORMATION SERVICES,Financials,2026-05-26,-80.0,-74.0,6.0
+AKAM,"AKAMAI TECHNOLOGIES, INC.",Information Technology,2026-05-27,-109.0,-73.0,36.0
+DLTR,"DOLLAR TREE, INC.",Consumer Staples,2026-05-27,-106.0,-5.0,101.0
+BBY,"BEST BUY CO., INC.",Consumer Discretionary,2026-05-27,-100.0,-53.0,47.0
+DXCM,"DEXCOM, INC.",Health Care,2026-05-27,-93.0,-102.0,-9.0
+DOC,"HEALTHDOC PROPERTIES, INC.",Real Estate,2026-05-27,-83.0,-57.0,26.0
+UAL,"UNITED AIRLINES HOLDINGS, INC.",Industrials,2026-05-27,-83.0,-43.0,40.0
+ADSK,"AUTODESK, INC.",Information Technology,2026-05-27,-80.0,-60.0,20.0
+FIS,FIDELITY NATIONAL INFORMATION SERVICES,Financials,2026-05-27,-80.0,-74.0,6.0
+CME,CME GROUP INC.,Financials,2026-05-27,-79.0,-16.0,63.0
+DVA,DAVITA INC.,Health Care,2026-05-27,-78.0,-68.0,10.0

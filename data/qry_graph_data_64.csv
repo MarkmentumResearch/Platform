@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,qtd_return_pct
-INTC,INTEL ,Information Technology,2026-05-26,1.799
-MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-05-26,1.6518
-SNDK,SANDISK CORPORATION,Information Technology,2026-05-26,1.5019
-AMD,"ADVANCED MICRO DEVICES, INC.",Information Technology,2026-05-26,1.477
-STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,2026-05-26,1.1589
-ON,ON SEMICONDUCTOR ,Information Technology,2026-05-26,1.051
-WDC,WESTERN DIGITAL ,Information Technology,2026-05-26,0.9396
-QCOM,QUALCOMM INC.,Information Technology,2026-05-26,0.9321
-DDOG,"DATADOG, INC.",Information Technology,2026-05-26,0.8945
-DELL,DELL TECHNOLOGIES INC.,Information Technology,2026-05-26,0.8588
+INTC,INTEL ,Information Technology,2026-05-27,1.7593
+MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-05-27,1.7481
+SNDK,SANDISK CORPORATION,Information Technology,2026-05-27,1.5025
+AMD,"ADVANCED MICRO DEVICES, INC.",Information Technology,2026-05-27,1.4359
+STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,2026-05-27,1.2224
+ON,ON SEMICONDUCTOR ,Information Technology,2026-05-27,1.017
+WDC,WESTERN DIGITAL ,Information Technology,2026-05-27,0.9616
+DDOG,"DATADOG, INC.",Information Technology,2026-05-27,0.8789
+DELL,DELL TECHNOLOGIES INC.,Information Technology,2026-05-27,0.8602
+QCOM,QUALCOMM INC.,Information Technology,2026-05-27,0.8124
