@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,change_pct
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-05-28,-0.2821
-BBY,"BEST BUY CO., INC.",Consumer Discretionary,2026-05-28,-0.1893
-DLTR,"DOLLAR TREE, INC.",Consumer Staples,2026-05-28,-0.1644
-DXCM,"DEXCOM, INC.",Health Care,2026-05-28,-0.1586
-STLA,STELLANTIS NV,MR Discretion,2026-05-28,-0.1573
-ARE,"ALEXANDRIA REAL ESTATE EQUITIES, INC.",Real Estate,2026-05-28,-0.1496
-IT,"GARTNER, INC.",Information Technology,2026-05-28,-0.1483
-FSLR,"FIRST SOLAR, INC.",Information Technology,2026-05-28,-0.1462
-NOW,"SERVICENOW, INC.",Information Technology,2026-05-28,-0.1403
-HUM,HUMANA INC.,Health Care,2026-05-28,-0.1319
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-05-29,-0.3174
+DELL,DELL TECHNOLOGIES INC.,Information Technology,2026-05-29,-0.2369
+NOW,"SERVICENOW, INC.",Information Technology,2026-05-29,-0.2217
+BBY,"BEST BUY CO., INC.",Consumer Discretionary,2026-05-29,-0.1954
+WDAY,"WORKDAY, INC.",Information Technology,2026-05-29,-0.1841
+CRWD,"CROWDSTRIKE HOLDINGS, INC.",Information Technology,2026-05-29,-0.1809
+DXCM,"DEXCOM, INC.",Health Care,2026-05-29,-0.173
+DDOG,"DATADOG, INC.",Information Technology,2026-05-29,-0.1728
+DLTR,"DOLLAR TREE, INC.",Consumer Staples,2026-05-29,-0.1663
+PANW,"PALO ALTO NETWORKS, INC.",Information Technology,2026-05-29,-0.1588
