@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-05-29,289.41
-INTC,INTEL ,Information Technology,2026-05-29,191.68
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-05-29,154.23
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-05-29,93.24
-PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,2026-05-29,92.2
-T,AT&T INC.,Communication Services,2026-05-29,88.3
-HPE,HEWLETT PACKARD ENTERPRISE COMPANY,Information Technology,2026-05-29,86.12
-MSFT,MICROSOFT ,Information Technology,2026-05-29,79.65
-AAPL,APPLE INC.,Information Technology,2026-05-29,70.03
-NOW,"SERVICENOW, INC.",Information Technology,2026-05-29,68.24
+NVDA,NVIDIA ,Information Technology,2026-06-01,212.85
+INTC,INTEL ,Information Technology,2026-06-01,134.9
+HPE,HEWLETT PACKARD ENTERPRISE COMPANY,Information Technology,2026-06-01,115.6
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-06-01,97.59
+NOW,"SERVICENOW, INC.",Information Technology,2026-06-01,68.79
+PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,2026-06-01,57.65
+XLE,SEL SECTOR:ENERGY SPDR,Sector & Style ETFs,2026-06-01,55.88
+MSFT,MICROSOFT ,Information Technology,2026-06-01,53.63
+AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-06-01,53.6
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-06-01,50.42

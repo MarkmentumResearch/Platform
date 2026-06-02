@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score
-LYV,"LIVE NATION ENTERTAINMENT, INC.",Communication Services,2026-05-29,-102.0
-RVTY,"REVVITY, INC.",Health Care,2026-05-29,-80.0
-DVA,DAVITA INC.,Health Care,2026-05-29,-79.0
-AXON,"AXON ENTERPRISE, INC.",Industrials,2026-05-29,-74.0
-DAL,"DELTA AIR LINES, INC.",Industrials,2026-05-29,-70.0
-DXCM,"DEXCOM, INC.",Health Care,2026-05-29,-70.0
-EL,THE ESTEE LAUDER COMPANIES INC.,Consumer Staples,2026-05-29,-70.0
-AKAM,"AKAMAI TECHNOLOGIES, INC.",Information Technology,2026-05-29,-69.0
-DECK,DECKERS OUTDOOR ,Consumer Discretionary,2026-05-29,-68.0
-DOC,"HEALTHDOC PROPERTIES, INC.",Real Estate,2026-05-29,-67.0
+PTC,PTC INC.,Information Technology,2026-06-01,-95.0
+GWW,"W.W. GRAINGER, INC.",Industrials,2026-06-01,-87.0
+FICO,FAIR ISAAC ,Information Technology,2026-06-01,-85.0
+NOW,"SERVICENOW, INC.",Information Technology,2026-06-01,-80.0
+CCI,CROWN CASTLE INC.,Real Estate,2026-06-01,-74.0
+DELL,DELL TECHNOLOGIES INC.,Information Technology,2026-06-01,-71.0
+NTAP,"NETAPP, INC.",Information Technology,2026-06-01,-71.0
+CPAY,"FLEETCOR TECHNOLOGIES, INC.",Financials,2026-06-01,-70.0
+GEN,GEN DIGITAL INC.,Information Technology,2026-06-01,-70.0
+HPQ,HP INC.,Information Technology,2026-06-01,-70.0
