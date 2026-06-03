@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,change_pct
-IT,"GARTNER, INC.",Information Technology,2026-06-01,-0.1626
-TTD,"THE TRADE DESK, INC.",Communication Services,2026-06-01,-0.152
-NOW,"SERVICENOW, INC.",Information Technology,2026-06-01,-0.1471
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-06-01,-0.1433
-WDAY,"WORKDAY, INC.",Information Technology,2026-06-01,-0.1401
-CDW,CDW ,Information Technology,2026-06-01,-0.1322
-FDS,FACTSET RESEARCH SYSTEMS INC.,Financials,2026-06-01,-0.1295
-FISV,"FISERV, INC.",Financials,2026-06-01,-0.1213
-CNC,CENTENE ,Health Care,2026-06-01,-0.1187
-DXCM,"DEXCOM, INC.",Health Care,2026-06-01,-0.0978
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-06-02,-0.1662
+ARE,"ALEXANDRIA REAL ESTATE EQUITIES, INC.",Real Estate,2026-06-02,-0.1276
+CDW,CDW ,Information Technology,2026-06-02,-0.1117
+IT,"GARTNER, INC.",Information Technology,2026-06-02,-0.1102
+APTV,APTIV PLC,Consumer Discretionary,2026-06-02,-0.0869
+CNC,CENTENE ,Health Care,2026-06-02,-0.0828
+FISV,"FISERV, INC.",Financials,2026-06-02,-0.0815
+DXCM,"DEXCOM, INC.",Health Care,2026-06-02,-0.0796
+HPE,HEWLETT PACKARD ENTERPRISE COMPANY,Information Technology,2026-06-02,-0.0768
+TTD,"THE TRADE DESK, INC.",Communication Services,2026-06-02,-0.0768

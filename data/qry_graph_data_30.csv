@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score
-PTC,PTC INC.,Information Technology,2026-06-01,-95.0
-GWW,"W.W. GRAINGER, INC.",Industrials,2026-06-01,-87.0
-FICO,FAIR ISAAC ,Information Technology,2026-06-01,-85.0
-NOW,"SERVICENOW, INC.",Information Technology,2026-06-01,-80.0
-CCI,CROWN CASTLE INC.,Real Estate,2026-06-01,-74.0
-DELL,DELL TECHNOLOGIES INC.,Information Technology,2026-06-01,-71.0
-NTAP,"NETAPP, INC.",Information Technology,2026-06-01,-71.0
-CPAY,"FLEETCOR TECHNOLOGIES, INC.",Financials,2026-06-01,-70.0
-GEN,GEN DIGITAL INC.,Information Technology,2026-06-01,-70.0
-HPQ,HP INC.,Information Technology,2026-06-01,-70.0
+FICO,FAIR ISAAC ,Information Technology,2026-06-02,-85.0
+PTC,PTC INC.,Information Technology,2026-06-02,-74.0
+GEN,GEN DIGITAL INC.,Information Technology,2026-06-02,-70.0
+NOW,"SERVICENOW, INC.",Information Technology,2026-06-02,-70.0
+WDAY,"WORKDAY, INC.",Information Technology,2026-06-02,-70.0
+BTC=F,BITCOIN FUTURES,Futures,2026-06-02,-69.0
+AWK,"AMERICAN WATER WORKS COMPANY, INC.",Utilities,2026-06-02,-64.0
+FOXA,FOX ,Communication Services,2026-06-02,-64.0
+CPRT,"COPART, INC.",Industrials,2026-06-02,-63.0
+EXE,EXPAND ENERGY ,Energy,2026-06-02,-63.0
