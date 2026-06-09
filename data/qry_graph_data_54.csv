@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-06-05,955.8
-INTC,INTEL ,Information Technology,2026-06-05,582.7
-HPE,HEWLETT PACKARD ENTERPRISE COMPANY,Information Technology,2026-06-05,400.27
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-06-05,345.18
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-06-05,270.53
-T,AT&T INC.,Communication Services,2026-06-05,267.03
-MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-06-05,266.6
-AAPL,APPLE INC.,Information Technology,2026-06-05,254.4
-AVGO,BROADCOM INC.,Information Technology,2026-06-05,251.14
-QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-06-05,244.64
+NVDA,NVIDIA ,Information Technology,2026-06-08,138.37
+INTC,INTEL ,Information Technology,2026-06-08,136.97
+AAPL,APPLE INC.,Information Technology,2026-06-08,77.95
+MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-06-08,54.1
+TSLA,"TESLA, INC.",Consumer Discretionary,2026-06-08,50.33
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-06-08,49.32
+QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-06-08,47.4
+PFE,PFIZER INC.,Health Care,2026-06-08,42.03
+T,AT&T INC.,Communication Services,2026-06-08,41.97
+XLF,SEL SECTOR:FINL S SPDR,Sector & Style ETFs,2026-06-08,39.1
