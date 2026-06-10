@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score_qtd_change,current_model_score,previous_model_score
-HAL,HALLIBURTON COMPANY,Energy,2026-06-08,101.0,69.0,-32.0
-EQIX,"EQUINIX, INC.",Real Estate,2026-06-08,94.0,84.0,-10.0
-SNDK,SANDISK CORPORATION,Information Technology,2026-06-08,93.0,98.0,5.0
-CRESY,CRESUD INC.,MR Discretion,2026-06-08,91.0,35.0,-56.0
-TAGS,TEUCRIUM:AGRICULTURAL,Commodities,2026-06-08,89.0,54.0,-35.0
-ACGL,ARCH CAPITAL GROUP LTD.,Financials,2026-06-08,88.0,84.0,-4.0
-SNPS,"SYNOPSYS, INC.",Information Technology,2026-06-08,85.0,47.0,-38.0
-LRCX,LAM RESEARCH ,Information Technology,2026-06-08,84.0,76.0,-8.0
-CPRT,"COPART, INC.",Industrials,2026-06-08,80.0,33.0,-47.0
-KLAC,KLA ,Information Technology,2026-06-08,79.0,63.0,-16.0
+HAL,HALLIBURTON COMPANY,Energy,2026-06-09,101.0,69.0,-32.0
+EQIX,"EQUINIX, INC.",Real Estate,2026-06-09,94.0,84.0,-10.0
+T,AT&T INC.,Communication Services,2026-06-09,93.0,83.0,-10.0
+ETR,ENTERGY ,Utilities,2026-06-09,90.0,67.0,-23.0
+HWM,HOWMET AEROSPACE INC.,Industrials,2026-06-09,87.0,77.0,-10.0
+LRCX,LAM RESEARCH ,Information Technology,2026-06-09,84.0,76.0,-8.0
+ULTA,"ULTA BEAUTY, INC.",Consumer Discretionary,2026-06-09,84.0,84.0,0.0
+CANE,TEUCRIUM:SUGAR,Commodities,2026-06-09,79.0,44.0,-35.0
+KLAC,KLA ,Information Technology,2026-06-09,79.0,63.0,-16.0
+STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,2026-06-09,79.0,86.0,7.0

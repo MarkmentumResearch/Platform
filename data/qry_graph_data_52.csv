@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,wtd_return_pct
-INTC,INTEL ,Information Technology,2026-06-08,0.1119
-MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-06-08,0.0987
-KLAC,KLA ,Information Technology,2026-06-08,0.0927
-AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-06-08,0.0864
-LRCX,LAM RESEARCH ,Information Technology,2026-06-08,0.0698
-COHR,COHERENT CORP.,Information Technology,2026-06-08,0.0662
-COIN,"COINBASE GLOBAL, INC.",Financials,2026-06-08,0.0637
-FICO,FAIR ISAAC ,Information Technology,2026-06-08,0.0616
-EWY,ISHARES:MSCI S KOREA,Foreign,2026-06-08,0.0597
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-06-08,0.0564
+APH,AMPHENOL ,Information Technology,2026-06-09,0.1099
+KLAC,KLA ,Information Technology,2026-06-09,0.1089
+AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-06-09,0.102
+INTC,INTEL ,Information Technology,2026-06-09,0.0882
+SJM,THE J. M. SMUCKER COMPANY,Consumer Staples,2026-06-09,0.0855
+MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-06-09,0.0832
+LRCX,LAM RESEARCH ,Information Technology,2026-06-09,0.0787
+FICO,FAIR ISAAC ,Information Technology,2026-06-09,0.0772
+DXCM,"DEXCOM, INC.",Health Care,2026-06-09,0.0732
+BXP,"BOSTON PROPERTIES, INC.",Real Estate,2026-06-09,0.0687

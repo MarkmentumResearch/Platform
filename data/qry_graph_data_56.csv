@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score_wtd_change,current_model_score,previous_model_score
-NOW,"SERVICENOW, INC.",Information Technology,2026-06-08,-66.0,-81.0,-15.0
-COST,COSTCO WHOLESALE ,Consumer Staples,2026-06-08,-62.0,-34.0,28.0
-ANET,"ARISTA NETWORKS, INC.",Information Technology,2026-06-08,-61.0,-53.0,8.0
-TYX,30 Y TSY YLD NDX,Yields,2026-06-08,-61.0,-43.0,18.0
-CDNS,"CADENCE DESIGN SYSTEMS, INC.",Information Technology,2026-06-08,-60.0,-37.0,23.0
-CRM,"SALESFORCE, INC.",Information Technology,2026-06-08,-59.0,-1.0,58.0
-MCHI,ISHARES:MSCI CHINA,Foreign,2026-06-08,-55.0,1.0,56.0
-WELL,WELLTOWER INC.,Real Estate,2026-06-08,-55.0,0.0,55.0
-CMCSA,COMCAST ,Communication Services,2026-06-08,-53.0,-2.0,51.0
-OEF,ISHARES:S&P 100,Sector & Style ETFs,2026-06-08,-53.0,18.0,71.0
+CSGP,"COSTAR GROUP, INC.",Real Estate,2026-06-09,-102.0,-95.0,7.0
+EPAM,"EPAM SYSTEMS, INC.",Information Technology,2026-06-09,-78.0,-34.0,44.0
+IT,"GARTNER, INC.",Information Technology,2026-06-09,-76.0,-79.0,-3.0
+CRM,"SALESFORCE, INC.",Information Technology,2026-06-09,-68.0,-10.0,58.0
+POWA,INVESCO BLOOMBERG PRICING POWER,Sector & Style ETFs,2026-06-09,-66.0,-30.0,36.0
+SDY,SPDR S&P DIVIDEND,Sector & Style ETFs,2026-06-09,-65.0,-20.0,45.0
+CBRE,"CBRE GROUP, INC.",Real Estate,2026-06-09,-63.0,-13.0,50.0
+MCHI,ISHARES:MSCI CHINA,Foreign,2026-06-09,-63.0,-7.0,56.0
+COST,COSTCO WHOLESALE ,Consumer Staples,2026-06-09,-62.0,-34.0,28.0
+ROP,"ROPER TECHNOLOGIES, INC.",Information Technology,2026-06-09,-62.0,-75.0,-13.0
