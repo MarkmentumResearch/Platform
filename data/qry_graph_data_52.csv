@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,wtd_return_pct
-APH,AMPHENOL ,Information Technology,2026-06-09,0.1099
-KLAC,KLA ,Information Technology,2026-06-09,0.1089
-AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-06-09,0.102
-INTC,INTEL ,Information Technology,2026-06-09,0.0882
-SJM,THE J. M. SMUCKER COMPANY,Consumer Staples,2026-06-09,0.0855
-MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-06-09,0.0832
-LRCX,LAM RESEARCH ,Information Technology,2026-06-09,0.0787
-FICO,FAIR ISAAC ,Information Technology,2026-06-09,0.0772
-DXCM,"DEXCOM, INC.",Health Care,2026-06-09,0.0732
-BXP,"BOSTON PROPERTIES, INC.",Real Estate,2026-06-09,0.0687
+CASY,"CASEY'S GENERAL STORES, INC.",Consumer Staples,2026-06-10,0.2017
+SJM,THE J. M. SMUCKER COMPANY,Consumer Staples,2026-06-10,0.1305
+KLAC,KLA ,Information Technology,2026-06-10,0.107
+AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-06-10,0.0971
+INTC,INTEL ,Information Technology,2026-06-10,0.0794
+EIDO,ISHARES:MSCI INDONESIA,Foreign,2026-06-10,0.0793
+APH,AMPHENOL ,Information Technology,2026-06-10,0.075
+FICO,FAIR ISAAC ,Information Technology,2026-06-10,0.0728
+VXN,CBOE NASDAQ MKT VOL NDX,Volatility,2026-06-10,0.0725
+EC,ECOPETROL SA,MR Discretion,2026-06-10,0.07

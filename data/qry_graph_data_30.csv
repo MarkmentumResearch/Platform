@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score
-CSGP,"COSTAR GROUP, INC.",Real Estate,2026-06-09,-95.0
-WDAY,"WORKDAY, INC.",Information Technology,2026-06-09,-86.0
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-06-09,-83.0
-ALL,THE ALLSTATE ,Financials,2026-06-09,-81.0
-RSG,"REPUBLIC SERVICES, INC.",Industrials,2026-06-09,-81.0
-ADP,"AUTOMATIC DATA PROCESSING, INC.",Industrials,2026-06-09,-80.0
-CDW,CDW ,Information Technology,2026-06-09,-80.0
-IT,"GARTNER, INC.",Information Technology,2026-06-09,-79.0
-PAYX,"PAYCHEX, INC.",Industrials,2026-06-09,-77.0
-ROP,"ROPER TECHNOLOGIES, INC.",Information Technology,2026-06-09,-75.0
+ALL,THE ALLSTATE ,Financials,2026-06-10,-86.0
+WDAY,"WORKDAY, INC.",Information Technology,2026-06-10,-86.0
+ADP,"AUTOMATIC DATA PROCESSING, INC.",Industrials,2026-06-10,-80.0
+IT,"GARTNER, INC.",Information Technology,2026-06-10,-79.0
+EW,EDWARDS LIFESCIENCES ,Health Care,2026-06-10,-69.0
+UNG,UNITED STATES NAT GAS,Commodities,2026-06-10,-66.0
+TYL,"TYLER TECHNOLOGIES, INC.",Information Technology,2026-06-10,-65.0
+CDW,CDW ,Information Technology,2026-06-10,-64.0
+COST,COSTCO WHOLESALE ,Consumer Staples,2026-06-10,-64.0
+CSGP,"COSTAR GROUP, INC.",Real Estate,2026-06-10,-63.0
