@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score
-ALL,THE ALLSTATE ,Financials,2026-06-10,-86.0
-WDAY,"WORKDAY, INC.",Information Technology,2026-06-10,-86.0
-ADP,"AUTOMATIC DATA PROCESSING, INC.",Industrials,2026-06-10,-80.0
-IT,"GARTNER, INC.",Information Technology,2026-06-10,-79.0
-EW,EDWARDS LIFESCIENCES ,Health Care,2026-06-10,-69.0
-UNG,UNITED STATES NAT GAS,Commodities,2026-06-10,-66.0
-TYL,"TYLER TECHNOLOGIES, INC.",Information Technology,2026-06-10,-65.0
-CDW,CDW ,Information Technology,2026-06-10,-64.0
-COST,COSTCO WHOLESALE ,Consumer Staples,2026-06-10,-64.0
-CSGP,"COSTAR GROUP, INC.",Real Estate,2026-06-10,-63.0
+ADP,"AUTOMATIC DATA PROCESSING, INC.",Industrials,2026-06-11,-80.0
+LEN,LENNAR ,Consumer Discretionary,2026-06-11,-80.0
+IT,"GARTNER, INC.",Information Technology,2026-06-11,-74.0
+BKNG,BOOKING HOLDINGS INC.,Consumer Discretionary,2026-06-11,-73.0
+EW,EDWARDS LIFESCIENCES ,Health Care,2026-06-11,-66.0
+TGT,TARGET ,Consumer Staples,2026-06-11,-66.0
+TYL,"TYLER TECHNOLOGIES, INC.",Information Technology,2026-06-11,-65.0
+CDW,CDW ,Information Technology,2026-06-11,-64.0
+PPLT,ABRDN:PHYSICAL PLATINUM,Commodities,2026-06-11,-63.0
+TDG,TRANSDIGM GROUP INC.,Industrials,2026-06-11,-63.0

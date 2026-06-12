@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,wtd_return_pct
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-06-10,-0.2971
-AKAM,"AKAMAI TECHNOLOGIES, INC.",Information Technology,2026-06-10,-0.1296
-APP,APPLOVIN CORP,Information Technology,2026-06-10,-0.1153
-QCOM,QUALCOMM INC.,Information Technology,2026-06-10,-0.1146
-CIEN,CIENA CORPORATION,Information Technology,2026-06-10,-0.1097
-MOS,THE MOSAIC COMPANY,Materials,2026-06-10,-0.1088
-FSLR,"FIRST SOLAR, INC.",Information Technology,2026-06-10,-0.1066
-MP,MP MATERIALS CORP,MR Discretion,2026-06-10,-0.0968
-GNRC,GENERAC HOLDINGS INC.,Industrials,2026-06-10,-0.0858
-GLATF,GLOBAL ATOMIC ,MR Discretion,2026-06-10,-0.0833
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-06-11,-0.2322
+APP,APPLOVIN CORP,Information Technology,2026-06-11,-0.1411
+ORCL,ORACLE ,Information Technology,2026-06-11,-0.1384
+PTC,PTC INC.,Information Technology,2026-06-11,-0.1358
+ADBE,ADOBE INC.,Information Technology,2026-06-11,-0.1298
+AKAM,"AKAMAI TECHNOLOGIES, INC.",Information Technology,2026-06-11,-0.1129
+GDDY,GODADDY INC.,Information Technology,2026-06-11,-0.1091
+ADSK,"AUTODESK, INC.",Information Technology,2026-06-11,-0.1061
+CRM,"SALESFORCE, INC.",Information Technology,2026-06-11,-0.1035
+VIX,CBOE MKT VOLATILITY IDX,Volatility,2026-06-11,-0.0962
