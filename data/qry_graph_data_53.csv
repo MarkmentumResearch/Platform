@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,wtd_return_pct
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-06-11,-0.2322
-APP,APPLOVIN CORP,Information Technology,2026-06-11,-0.1411
-ORCL,ORACLE ,Information Technology,2026-06-11,-0.1384
-PTC,PTC INC.,Information Technology,2026-06-11,-0.1358
-ADBE,ADOBE INC.,Information Technology,2026-06-11,-0.1298
-AKAM,"AKAMAI TECHNOLOGIES, INC.",Information Technology,2026-06-11,-0.1129
-GDDY,GODADDY INC.,Information Technology,2026-06-11,-0.1091
-ADSK,"AUTODESK, INC.",Information Technology,2026-06-11,-0.1061
-CRM,"SALESFORCE, INC.",Information Technology,2026-06-11,-0.1035
-VIX,CBOE MKT VOLATILITY IDX,Volatility,2026-06-11,-0.0962
+KLAC,KLA ,Information Technology,2026-06-12,-0.8681
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-06-12,-0.2685
+ADBE,ADOBE INC.,Information Technology,2026-06-12,-0.1886
+VIX,CBOE MKT VOLATILITY IDX,Volatility,2026-06-12,-0.1781
+PTC,PTC INC.,Information Technology,2026-06-12,-0.1702
+ORCL,ORACLE ,Information Technology,2026-06-12,-0.1383
+ADSK,"AUTODESK, INC.",Information Technology,2026-06-12,-0.1371
+APP,APPLOVIN CORP,Information Technology,2026-06-12,-0.1085
+CRM,"SALESFORCE, INC.",Information Technology,2026-06-12,-0.1065
+AKAM,"AKAMAI TECHNOLOGIES, INC.",Information Technology,2026-06-12,-0.1059
