@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,mtd_return_pct
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-06-16,-0.366
-CIEN,CIENA CORPORATION,Information Technology,2026-06-16,-0.2584
-CBOE,"CBOE GLOBAL MARKETS, INC.",Financials,2026-06-16,-0.2048
-ADBE,ADOBE INC.,Information Technology,2026-06-16,-0.2002
-NOW,"SERVICENOW, INC.",Information Technology,2026-06-16,-0.1853
-ICL,ICL GROUP LTD,MR Discretion,2026-06-16,-0.1852
-FOXA,FOX ,Communication Services,2026-06-16,-0.1812
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-06-16,-0.1737
-STLA,STELLANTIS NV,MR Discretion,2026-06-16,-0.1679
-ORCL,ORACLE ,Information Technology,2026-06-16,-0.1659
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-06-17,-0.3973
+CIEN,CIENA CORPORATION,Information Technology,2026-06-17,-0.2473
+ADBE,ADOBE INC.,Information Technology,2026-06-17,-0.2428
+CBOE,"CBOE GLOBAL MARKETS, INC.",Financials,2026-06-17,-0.2364
+NOW,"SERVICENOW, INC.",Information Technology,2026-06-17,-0.2323
+APP,APPLOVIN CORP,Information Technology,2026-06-17,-0.2179
+ICL,ICL GROUP LTD,MR Discretion,2026-06-17,-0.2108
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-06-17,-0.1995
+FOXA,FOX ,Communication Services,2026-06-17,-0.1971
+STLA,STELLANTIS NV,MR Discretion,2026-06-17,-0.1892
