@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-06-18,250.99
-NVDA,NVIDIA ,Information Technology,2026-06-18,241.27
-INTC,INTEL ,Information Technology,2026-06-18,233.91
-PFE,PFIZER INC.,Health Care,2026-06-18,119.61
-T,AT&T INC.,Communication Services,2026-06-18,94.24
-NFLX,"NETFLIX, INC.",Communication Services,2026-06-18,91.92
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-06-18,88.71
-AAPL,APPLE INC.,Information Technology,2026-06-18,85.96
-FLEX,FLEX LTD.,Information Technology,2026-06-18,80.92
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-06-18,80.88
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-06-22,128.51
+INTC,INTEL ,Information Technology,2026-06-22,127.19
+NVDA,NVIDIA ,Information Technology,2026-06-22,122.04
+NFLX,"NETFLIX, INC.",Communication Services,2026-06-22,82.2
+T,AT&T INC.,Communication Services,2026-06-22,68.52
+AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-06-22,68.39
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-06-22,66.74
+PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,2026-06-22,56.92
+MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-06-22,53.14
+GOOGL,ALPHABET INC.,Communication Services,2026-06-22,52.81
