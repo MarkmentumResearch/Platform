@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,daily_return_pct
-GLATF,GLOBAL ATOMIC ,MR Discretion,2026-06-22,-0.0926
-MRNA,"MODERNA, INC.",Health Care,2026-06-22,-0.0721
-PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,2026-06-22,-0.0698
-VRSN,"VERISIGN, INC.",Information Technology,2026-06-22,-0.064
-CMG,"CHIPOTLE MEXICAN GRILL, INC.",Consumer Discretionary,2026-06-22,-0.06
-NFLX,"NETFLIX, INC.",Communication Services,2026-06-22,-0.0582
-LULU,LULULEMON ATHLETICA INC.,Consumer Discretionary,2026-06-22,-0.0567
-DPZ,"DOMINO'S PIZZA, INC.",Consumer Discretionary,2026-06-22,-0.0556
-FOXA,FOX ,Communication Services,2026-06-22,-0.0544
-CLX,THE CLOROX COMPANY,Consumer Staples,2026-06-22,-0.0543
+SNDK,SANDISK CORPORATION,Information Technology,2026-06-23,-0.1364
+MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-06-23,-0.1318
+EWY,ISHARES:MSCI S KOREA,Foreign,2026-06-23,-0.1225
+VRT,VERTIV HOLDINGS CO,Industrials,2026-06-23,-0.1107
+ON,ON SEMICONDUCTOR ,Information Technology,2026-06-23,-0.1101
+COHR,COHERENT CORP.,Information Technology,2026-06-23,-0.104
+MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-06-23,-0.0936
+LRCX,LAM RESEARCH ,Information Technology,2026-06-23,-0.0933
+MCHP,MICROCHIP TECHNOLOGY INC.,Information Technology,2026-06-23,-0.092
+KLAC,KLA ,Information Technology,2026-06-23,-0.0917

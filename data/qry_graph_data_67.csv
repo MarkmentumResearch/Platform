@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score_qtd_change,current_model_score,previous_model_score
-SNPS,"SYNOPSYS, INC.",Information Technology,2026-06-22,103.0,65.0,-38.0
-EOG,"EOG RESOURCES, INC.",Energy,2026-06-22,90.0,53.0,-37.0
-COHR,COHERENT CORP.,Information Technology,2026-06-22,87.0,61.0,-26.0
-SNDK,SANDISK CORPORATION,Information Technology,2026-06-22,86.0,91.0,5.0
-ORLY,"O'REILLY AUTOMOTIVE, INC.",Consumer Discretionary,2026-06-22,83.0,62.0,-21.0
-JBL,JABIL INC.,Information Technology,2026-06-22,76.0,42.0,-34.0
-COIN,"COINBASE GLOBAL, INC.",Financials,2026-06-22,75.0,6.0,-69.0
-MSFT,MICROSOFT ,Information Technology,2026-06-22,73.0,53.0,-20.0
-FFIV,"F5, INC.",Information Technology,2026-06-22,71.0,66.0,-5.0
-PBR,BRAZILIAN PETROLEUM  - PETROBRAS,MR Discretion,2026-06-22,71.0,20.0,-51.0
+COHR,COHERENT CORP.,Information Technology,2026-06-23,98.0,72.0,-26.0
+EOG,"EOG RESOURCES, INC.",Energy,2026-06-23,90.0,53.0,-37.0
+MSFT,MICROSOFT ,Information Technology,2026-06-23,84.0,64.0,-20.0
+Q,"QNITY ELECTRONICS, INC.",Information Technology,2026-06-23,83.0,55.0,-28.0
+SNPS,"SYNOPSYS, INC.",Information Technology,2026-06-23,76.0,38.0,-38.0
+TYX,30 Y TSY YLD NDX,Yields,2026-06-23,76.0,28.0,-48.0
+COIN,"COINBASE GLOBAL, INC.",Financials,2026-06-23,75.0,6.0,-69.0
+EWG,ISHARES:MSCI GERMANY,Foreign,2026-06-23,74.0,74.0,0.0
+EC,ECOPETROL SA,MR Discretion,2026-06-23,73.0,19.0,-54.0
+GLW,CORNING INC.,Information Technology,2026-06-23,71.0,63.0,-8.0
