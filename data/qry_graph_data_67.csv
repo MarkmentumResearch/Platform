@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score_qtd_change,current_model_score,previous_model_score
-COHR,COHERENT CORP.,Information Technology,2026-06-23,98.0,72.0,-26.0
-EOG,"EOG RESOURCES, INC.",Energy,2026-06-23,90.0,53.0,-37.0
-MSFT,MICROSOFT ,Information Technology,2026-06-23,84.0,64.0,-20.0
-Q,"QNITY ELECTRONICS, INC.",Information Technology,2026-06-23,83.0,55.0,-28.0
-SNPS,"SYNOPSYS, INC.",Information Technology,2026-06-23,76.0,38.0,-38.0
-TYX,30 Y TSY YLD NDX,Yields,2026-06-23,76.0,28.0,-48.0
-COIN,"COINBASE GLOBAL, INC.",Financials,2026-06-23,75.0,6.0,-69.0
-EWG,ISHARES:MSCI GERMANY,Foreign,2026-06-23,74.0,74.0,0.0
-EC,ECOPETROL SA,MR Discretion,2026-06-23,73.0,19.0,-54.0
-GLW,CORNING INC.,Information Technology,2026-06-23,71.0,63.0,-8.0
+AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-06-24,94.0,80.0,-14.0
+COIN,"COINBASE GLOBAL, INC.",Financials,2026-06-24,94.0,25.0,-69.0
+GLW,CORNING INC.,Information Technology,2026-06-24,92.0,84.0,-8.0
+VRT,VERTIV HOLDINGS CO,Industrials,2026-06-24,87.0,77.0,-10.0
+EQIX,"EQUINIX, INC.",Real Estate,2026-06-24,86.0,76.0,-10.0
+COHR,COHERENT CORP.,Information Technology,2026-06-24,85.0,59.0,-26.0
+SNPS,"SYNOPSYS, INC.",Information Technology,2026-06-24,85.0,47.0,-38.0
+STIP,ISHARES:0-5 TIPS BD ETF,Bonds,2026-06-24,84.0,81.0,-3.0
+Q,"QNITY ELECTRONICS, INC.",Information Technology,2026-06-24,81.0,53.0,-28.0
+AMD,"ADVANCED MICRO DEVICES, INC.",Information Technology,2026-06-24,77.0,51.0,-26.0
