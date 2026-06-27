@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,daily_return_pct
-SNDK,SANDISK CORPORATION,Information Technology,2026-06-25,0.2197
-TECH,BIO-TECHNE ,Health Care,2026-06-25,0.2007
-MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-06-25,0.1574
-AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-06-25,0.1342
-GLW,CORNING INC.,Information Technology,2026-06-25,0.1078
-TER,"TERADYNE, INC.",Information Technology,2026-06-25,0.1048
-KLAC,KLA ,Information Technology,2026-06-25,0.0762
-RVTY,"REVVITY, INC.",Health Care,2026-06-25,0.0748
-LRCX,LAM RESEARCH ,Information Technology,2026-06-25,0.0721
-FLEX,FLEX LTD.,Information Technology,2026-06-25,0.0701
+MRNA,"MODERNA, INC.",Health Care,2026-06-26,0.1259
+FDS,FACTSET RESEARCH SYSTEMS INC.,Financials,2026-06-26,0.1097
+NOW,"SERVICENOW, INC.",Information Technology,2026-06-26,0.0985
+WDAY,"WORKDAY, INC.",Information Technology,2026-06-26,0.0918
+DDOG,"DATADOG, INC.",Information Technology,2026-06-26,0.0852
+VEEV,VEEVA SYSTEMS INC.,Health Care,2026-06-26,0.084
+LLY,ELI LILLY AND COMPANY,Health Care,2026-06-26,0.0713
+APP,APPLOVIN CORP,Information Technology,2026-06-26,0.0699
+BIIB,BIOGEN INC.,Health Care,2026-06-26,0.0697
+IT,"GARTNER, INC.",Information Technology,2026-06-26,0.0658

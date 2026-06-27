@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-06-25,577.55
-INTC,INTEL ,Information Technology,2026-06-25,487.88
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-06-25,287.19
-AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-06-25,277.02
-MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-06-25,265.36
-PFE,PFIZER INC.,Health Care,2026-06-25,258.05
-AAPL,APPLE INC.,Information Technology,2026-06-25,257.23
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-06-25,245.54
-T,AT&T INC.,Communication Services,2026-06-25,242.64
-NFLX,"NETFLIX, INC.",Communication Services,2026-06-25,225.59
+NVDA,NVIDIA ,Information Technology,2026-06-26,756.86
+INTC,INTEL ,Information Technology,2026-06-26,587.35
+AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-06-26,525.39
+AAPL,APPLE INC.,Information Technology,2026-06-26,519.0
+MSFT,MICROSOFT ,Information Technology,2026-06-26,382.89
+MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-06-26,351.77
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-06-26,335.74
+T,AT&T INC.,Communication Services,2026-06-26,327.79
+PFE,PFIZER INC.,Health Care,2026-06-26,318.01
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-06-26,305.09
