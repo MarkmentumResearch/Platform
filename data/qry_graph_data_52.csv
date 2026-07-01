@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,wtd_return_pct
-GLW,CORNING INC.,Information Technology,2026-06-29,0.1567
-KLAC,KLA ,Information Technology,2026-06-29,0.1197
-WDC,WESTERN DIGITAL ,Information Technology,2026-06-29,0.1116
-AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-06-29,0.1082
-AXON,"AXON ENTERPRISE, INC.",Industrials,2026-06-29,0.0985
-CHTR,"CHARTER COMMUNICATIONS, INC.",Communication Services,2026-06-29,0.0938
-PANW,"PALO ALTO NETWORKS, INC.",Information Technology,2026-06-29,0.0914
-FLEX,FLEX LTD.,Information Technology,2026-06-29,0.0877
-TSLA,"TESLA, INC.",Consumer Discretionary,2026-06-29,0.0846
-LRCX,LAM RESEARCH ,Information Technology,2026-06-29,0.0839
+KLAC,KLA ,Information Technology,2026-06-30,0.2134
+AXON,"AXON ENTERPRISE, INC.",Industrials,2026-06-30,0.2061
+GLW,CORNING INC.,Information Technology,2026-06-30,0.1555
+AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-06-30,0.1534
+LRCX,LAM RESEARCH ,Information Technology,2026-06-30,0.1431
+GEV,GE VERNOVA INC.,Industrials,2026-06-30,0.1241
+PANW,"PALO ALTO NETWORKS, INC.",Information Technology,2026-06-30,0.121
+MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-06-30,0.1167
+AMD,"ADVANCED MICRO DEVICES, INC.",Information Technology,2026-06-30,0.1138
+TSLA,"TESLA, INC.",Consumer Discretionary,2026-06-30,0.1077

@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-06-29,3258.49
-INTC,INTEL ,Information Technology,2026-06-29,2642.41
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-06-29,1513.66
-MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-06-29,1434.9
-AAPL,APPLE INC.,Information Technology,2026-06-29,1336.31
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-06-29,1259.35
-AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-06-29,1247.78
-MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-06-29,1163.81
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-06-29,1149.12
-T,AT&T INC.,Communication Services,2026-06-29,1148.67
+NVDA,NVIDIA ,Information Technology,2026-06-30,3424.96
+INTC,INTEL ,Information Technology,2026-06-30,2759.41
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-06-30,1569.92
+MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-06-30,1472.42
+AAPL,APPLE INC.,Information Technology,2026-06-30,1401.41
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-06-30,1314.97
+AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-06-30,1314.01
+T,AT&T INC.,Communication Services,2026-06-30,1279.79
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-06-30,1208.43
+MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-06-30,1205.96
