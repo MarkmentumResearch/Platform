@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-06-30,166.48
-T,AT&T INC.,Communication Services,2026-06-30,131.12
-INTC,INTEL ,Information Technology,2026-06-30,117.0
-NKE,"NIKE, INC.",Consumer Discretionary,2026-06-30,73.89
-AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-06-30,66.23
-AAPL,APPLE INC.,Information Technology,2026-06-30,65.1
-CMCSA,COMCAST ,Communication Services,2026-06-30,61.97
-RIG,TRANSOCEAN LTD,MR Discretion,2026-06-30,61.6
-VZ,VERIZON COMMUNICATIONS INC.,Communication Services,2026-06-30,60.54
-PFE,PFIZER INC.,Health Care,2026-06-30,60.05
+NVDA,NVIDIA ,Information Technology,2026-07-01,146.15
+T,AT&T INC.,Communication Services,2026-07-01,137.69
+INTC,INTEL ,Information Technology,2026-07-01,113.11
+NKE,"NIKE, INC.",Consumer Discretionary,2026-07-01,80.19
+RIG,TRANSOCEAN LTD,MR Discretion,2026-07-01,59.98
+PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,2026-07-01,58.56
+VZ,VERIZON COMMUNICATIONS INC.,Communication Services,2026-07-01,57.14
+AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-07-01,53.83
+CMCSA,COMCAST ,Communication Services,2026-07-01,52.26
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-07-01,52.03
