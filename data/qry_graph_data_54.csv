@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-07-01,461.46
-T,AT&T INC.,Communication Services,2026-07-01,353.81
-INTC,INTEL ,Information Technology,2026-07-01,336.91
-CMCSA,COMCAST ,Communication Services,2026-07-01,249.67
-CAG,"CONAGRA BRANDS, INC.",Consumer Staples,2026-07-01,203.58
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-07-01,199.46
-AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-07-01,197.68
-NKE,"NIKE, INC.",Consumer Discretionary,2026-07-01,181.9
-AAPL,APPLE INC.,Information Technology,2026-07-01,181.69
-VZ,VERIZON COMMUNICATIONS INC.,Communication Services,2026-07-01,173.07
+NVDA,NVIDIA ,Information Technology,2026-07-02,603.85
+T,AT&T INC.,Communication Services,2026-07-02,483.17
+INTC,INTEL ,Information Technology,2026-07-02,461.93
+CMCSA,COMCAST ,Communication Services,2026-07-02,293.41
+AAPL,APPLE INC.,Information Technology,2026-07-02,257.09
+AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-07-02,245.98
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-07-02,242.32
+VZ,VERIZON COMMUNICATIONS INC.,Communication Services,2026-07-02,232.13
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-07-02,218.27
+CAG,"CONAGRA BRANDS, INC.",Consumer Staples,2026-07-02,218.14

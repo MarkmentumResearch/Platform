@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-07-01,146.15
-T,AT&T INC.,Communication Services,2026-07-01,137.69
-INTC,INTEL ,Information Technology,2026-07-01,113.11
-NKE,"NIKE, INC.",Consumer Discretionary,2026-07-01,80.19
-RIG,TRANSOCEAN LTD,MR Discretion,2026-07-01,59.98
-PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,2026-07-01,58.56
-VZ,VERIZON COMMUNICATIONS INC.,Communication Services,2026-07-01,57.14
-AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-07-01,53.83
-CMCSA,COMCAST ,Communication Services,2026-07-01,52.26
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-07-01,52.03
+NVDA,NVIDIA ,Information Technology,2026-07-02,288.53
+T,AT&T INC.,Communication Services,2026-07-02,267.06
+INTC,INTEL ,Information Technology,2026-07-02,238.13
+AAPL,APPLE INC.,Information Technology,2026-07-02,125.56
+PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,2026-07-02,119.35
+VZ,VERIZON COMMUNICATIONS INC.,Communication Services,2026-07-02,116.2
+NKE,"NIKE, INC.",Consumer Discretionary,2026-07-02,114.45
+TSLA,"TESLA, INC.",Consumer Discretionary,2026-07-02,114.04
+MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-07-02,113.17
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-07-02,104.61
