@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score_qtd_change,current_model_score,previous_model_score
-NKE,"NIKE, INC.",Consumer Discretionary,2026-07-07,-131.0,-47.0,84.0
-AVGO,BROADCOM INC.,Information Technology,2026-07-07,-110.0,-67.0,43.0
-IWF,ISHARES:RUSS 1000 GR ETF,Sector & Style ETFs,2026-07-07,-110.0,-27.0,83.0
-BLK,"BLACKROCK, INC.",Financials,2026-07-07,-101.0,-21.0,80.0
-GILD,"GILEAD SCIENCES, INC.",Health Care,2026-07-07,-99.0,-53.0,46.0
-WDC,WESTERN DIGITAL ,Information Technology,2026-07-07,-93.0,-32.0,61.0
-XLRE,SEL SECTOR:RL EST SPDR,Sector & Style ETFs,2026-07-07,-93.0,-28.0,65.0
-CRESY,CRESUD INC.,MR Discretion,2026-07-07,-91.0,-44.0,47.0
-EIDO,ISHARES:MSCI INDONESIA,Foreign,2026-07-07,-90.0,-53.0,37.0
-NWSA,NEWS CORP.,Communication Services,2026-07-07,-90.0,-65.0,25.0
+BLK,"BLACKROCK, INC.",Financials,2026-07-08,-127.0,-47.0,80.0
+NKE,"NIKE, INC.",Consumer Discretionary,2026-07-08,-112.0,-28.0,84.0
+EWI,ISHARES:MSCI ITALY,Foreign,2026-07-08,-110.0,-74.0,36.0
+SNPS,"SYNOPSYS, INC.",Information Technology,2026-07-08,-99.0,-55.0,44.0
+MS,MORGAN STANLEY,Financials,2026-07-08,-97.0,-16.0,81.0
+GM,GENERAL MOTORS COMPANY,Consumer Discretionary,2026-07-08,-96.0,-33.0,63.0
+PSKY,PARAMOUNT SKYDANCE ,Communication Services,2026-07-08,-96.0,-60.0,36.0
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-07-08,-96.0,-53.0,43.0
+META,"META PLATFORMS, INC.",Communication Services,2026-07-08,-95.0,-81.0,14.0
+AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-07-08,-94.0,-39.0,55.0
