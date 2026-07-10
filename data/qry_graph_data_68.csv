@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score_qtd_change,current_model_score,previous_model_score
-BLK,"BLACKROCK, INC.",Financials,2026-07-08,-127.0,-47.0,80.0
-NKE,"NIKE, INC.",Consumer Discretionary,2026-07-08,-112.0,-28.0,84.0
-EWI,ISHARES:MSCI ITALY,Foreign,2026-07-08,-110.0,-74.0,36.0
-SNPS,"SYNOPSYS, INC.",Information Technology,2026-07-08,-99.0,-55.0,44.0
-MS,MORGAN STANLEY,Financials,2026-07-08,-97.0,-16.0,81.0
-GM,GENERAL MOTORS COMPANY,Consumer Discretionary,2026-07-08,-96.0,-33.0,63.0
-PSKY,PARAMOUNT SKYDANCE ,Communication Services,2026-07-08,-96.0,-60.0,36.0
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-07-08,-96.0,-53.0,43.0
-META,"META PLATFORMS, INC.",Communication Services,2026-07-08,-95.0,-81.0,14.0
-AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-07-08,-94.0,-39.0,55.0
+BLK,"BLACKROCK, INC.",Financials,2026-07-09,-149.0,-69.0,80.0
+ENZL,ISHARES:MSCI NEW ZLND,Foreign,2026-07-09,-114.0,-57.0,57.0
+EPOL,ISHARES:MSCI POLAND,Foreign,2026-07-09,-114.0,-43.0,71.0
+NKE,"NIKE, INC.",Consumer Discretionary,2026-07-09,-112.0,-28.0,84.0
+EWI,ISHARES:MSCI ITALY,Foreign,2026-07-09,-110.0,-74.0,36.0
+INTU,INTUIT INC.,Information Technology,2026-07-09,-106.0,-32.0,74.0
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-07-09,-101.0,-58.0,43.0
+AAPL,APPLE INC.,Information Technology,2026-07-09,-100.0,-17.0,83.0
+GREK,GLBL X MSCI GREECE,Foreign,2026-07-09,-99.0,-37.0,62.0
+MS,MORGAN STANLEY,Financials,2026-07-09,-97.0,-16.0,81.0
