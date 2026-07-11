@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-07-09,132.04
-INTC,INTEL ,Information Technology,2026-07-09,99.35
-T,AT&T INC.,Communication Services,2026-07-09,50.85
-AAPL,APPLE INC.,Information Technology,2026-07-09,48.12
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-07-09,41.44
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-07-09,41.2
-MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-07-09,41.11
-AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-07-09,38.09
-TSLA,"TESLA, INC.",Consumer Discretionary,2026-07-09,37.83
-NFLX,"NETFLIX, INC.",Communication Services,2026-07-09,36.31
+NVDA,NVIDIA ,Information Technology,2026-07-10,148.42
+INTC,INTEL ,Information Technology,2026-07-10,70.85
+T,AT&T INC.,Communication Services,2026-07-10,49.78
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-07-10,47.09
+NFLX,"NETFLIX, INC.",Communication Services,2026-07-10,46.71
+RIG,TRANSOCEAN LTD,MR Discretion,2026-07-10,46.08
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-07-10,42.19
+META,"META PLATFORMS, INC.",Communication Services,2026-07-10,40.61
+AAPL,APPLE INC.,Information Technology,2026-07-10,34.13
+LQD,ISHARES:IBOXX $IG CORP,Bonds,2026-07-10,34.11
