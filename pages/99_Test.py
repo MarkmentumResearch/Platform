@@ -1,14 +1,12 @@
 
 import streamlit as st
 import pandas as pd
-from pathlib import Path
 
 st.set_page_config(page_title="Test")
 
-CSV_PATH = Path("data") / "ticker_data.csv"
+df = pd.DataFrame({
+    "A": [1, 2, 3],
+    "B": [4, 5, 6]
+})
 
-df = pd.read_csv(CSV_PATH)
-
-st.write(df.shape)
-
-st.dataframe(df.head())
+st.dataframe(df)
