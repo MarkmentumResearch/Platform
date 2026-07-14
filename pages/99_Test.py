@@ -10,3 +10,5 @@ CSV_PATH = Path("data") / "ticker_data.csv"
 df = pd.read_csv(CSV_PATH)
 
 st.write(df.shape)
+
+st.dataframe(df.head())
