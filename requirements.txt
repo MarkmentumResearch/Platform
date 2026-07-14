@@ -9,4 +9,3 @@ openai>=1.109.0
 mammoth==1.6.0
 reportlab
 pypdf
-pyarrow==24.0.1
