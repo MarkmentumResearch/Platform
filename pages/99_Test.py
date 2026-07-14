@@ -1,12 +1,8 @@
 
 import streamlit as st
 import pandas as pd
+import pyarrow as pa
 
-st.set_page_config(page_title="Test")
-
-df = pd.DataFrame({
-    "A": [1, 2, 3],
-    "B": [4, 5, 6]
-})
-
-st.dataframe(df)
+st.write("Streamlit:", st.__version__)
+st.write("Pandas:", pd.__version__)
+st.write("PyArrow:", pa.__version__
