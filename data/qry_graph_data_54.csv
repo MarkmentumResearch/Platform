@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-07-10,661.03
-INTC,INTEL ,Information Technology,2026-07-10,503.04
-T,AT&T INC.,Communication Services,2026-07-10,344.68
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-07-10,230.37
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-07-10,221.8
-AAPL,APPLE INC.,Information Technology,2026-07-10,219.66
-MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-07-10,205.34
-TSLA,"TESLA, INC.",Consumer Discretionary,2026-07-10,197.97
-PFE,PFIZER INC.,Health Care,2026-07-10,197.57
-PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,2026-07-10,196.97
+NVDA,NVIDIA ,Information Technology,2026-07-13,121.41
+INTC,INTEL ,Information Technology,2026-07-13,100.99
+T,AT&T INC.,Communication Services,2026-07-13,65.5
+ORCL,ORACLE ,Information Technology,2026-07-13,56.69
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-07-13,51.28
+RIG,TRANSOCEAN LTD,MR Discretion,2026-07-13,50.93
+WBD,"WARNER BROS. DISCOVERY, INC.",Communication Services,2026-07-13,45.38
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-07-13,44.01
+AAPL,APPLE INC.,Information Technology,2026-07-13,43.26
+PFE,PFIZER INC.,Health Care,2026-07-13,42.95
