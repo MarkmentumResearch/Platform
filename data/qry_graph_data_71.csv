@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score_day_change,current_model_score,previous_model_score
-EQR,EQUITY RESIDENTIAL,Real Estate,2026-07-13,-94.0,-79.0,15.0
-COO,"THE COOPER COMPANIES, INC.",Health Care,2026-07-13,-82.0,-63.0,19.0
-FISV,"FISERV, INC.",Financials,2026-07-13,-80.0,-42.0,38.0
-COHR,COHERENT CORP.,Information Technology,2026-07-13,-73.0,-20.0,53.0
-FLEX,FLEX LTD.,Information Technology,2026-07-13,-70.0,-11.0,59.0
-EFX,EQUIFAX INC.,Industrials,2026-07-13,-67.0,-70.0,-3.0
-AVB,"AVALONBAY COMMUNITIES, INC.",Real Estate,2026-07-13,-59.0,-79.0,-20.0
-HST,"HOST HOTELS & RESORTS, INC.",Real Estate,2026-07-13,-59.0,10.0,69.0
-FTI,TECHNIPFMC PLC,MR Discretion,2026-07-13,-58.0,-3.0,55.0
-DPZ,"DOMINO'S PIZZA, INC.",Consumer Discretionary,2026-07-13,-57.0,-37.0,20.0
+KEYS,"KEYSIGHT TECHNOLOGIES, INC.",Information Technology,2026-07-14,-70.0,-9.0,61.0
+KLAC,KLA ,Information Technology,2026-07-14,-65.0,-30.0,35.0
+FXB,INVESCO:GBP STERLING,Currencies,2026-07-14,-63.0,-28.0,35.0
+LNT,ALLIANT ENERGY ,Utilities,2026-07-14,-63.0,-10.0,53.0
+MRK,"MERCK & CO., INC.",Health Care,2026-07-14,-58.0,-16.0,42.0
+FAST,FASTENAL COMPANY,Industrials,2026-07-14,-56.0,6.0,62.0
+IWM,ISHARES:RUSS 2000 ETF,Sector & Style ETFs,2026-07-14,-55.0,-29.0,26.0
+ANET,"ARISTA NETWORKS, INC.",Information Technology,2026-07-14,-54.0,-54.0,0.0
+IRM,IRON MOUNTAIN INC.,Real Estate,2026-07-14,-53.0,-9.0,44.0
+MO,"ALTRIA GROUP, INC.",Consumer Staples,2026-07-14,-53.0,9.0,62.0

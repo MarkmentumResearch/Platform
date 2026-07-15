@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score_qtd_change,current_model_score,previous_model_score
-AVGO,BROADCOM INC.,Information Technology,2026-07-13,-115.0,-72.0,43.0
-BLK,"BLACKROCK, INC.",Financials,2026-07-13,-107.0,-27.0,80.0
-AAPL,APPLE INC.,Information Technology,2026-07-13,-104.0,-21.0,83.0
-EWY,ISHARES:MSCI S KOREA,Foreign,2026-07-13,-102.0,-41.0,61.0
-XLRE,SEL SECTOR:RL EST SPDR,Sector & Style ETFs,2026-07-13,-102.0,-37.0,65.0
-GREK,GLBL X MSCI GREECE,Foreign,2026-07-13,-99.0,-37.0,62.0
-MS,MORGAN STANLEY,Financials,2026-07-13,-97.0,-16.0,81.0
-FIX,"COMFORT SYSTEMS USA, INC.",Industrials,2026-07-13,-88.0,-11.0,77.0
-MET,"METLIFE, INC.",Financials,2026-07-13,-88.0,-74.0,14.0
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-07-13,-88.0,-51.0,37.0
+AAPL,APPLE INC.,Information Technology,2026-07-14,-153.0,-70.0,83.0
+ELV,"ELEVANCE HEALTH, INC.",Health Care,2026-07-14,-110.0,-75.0,35.0
+BLK,"BLACKROCK, INC.",Financials,2026-07-14,-100.0,-20.0,80.0
+PLD,"PROLOGIS, INC.",Real Estate,2026-07-14,-100.0,-44.0,56.0
+NWSA,NEWS CORP.,Communication Services,2026-07-14,-93.0,-68.0,25.0
+STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,2026-07-14,-93.0,-9.0,84.0
+EIDO,ISHARES:MSCI INDONESIA,Foreign,2026-07-14,-91.0,-54.0,37.0
+WDC,WESTERN DIGITAL ,Information Technology,2026-07-14,-91.0,-30.0,61.0
+AVGO,BROADCOM INC.,Information Technology,2026-07-14,-89.0,-46.0,43.0
+NKE,"NIKE, INC.",Consumer Discretionary,2026-07-14,-87.0,-3.0,84.0
