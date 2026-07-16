@@ -1781,18 +1781,27 @@ with mid_stat:
 
         tickers = set(dir_df["tkr"])
 
+        def reload_for_ticker(ticker: str):
+            ticker = ticker.strip().upper()
+
+            # Update all ticker state values before reloading the page
+            st.session_state["active_ticker"] = ticker
+            st.session_state["ticker"] = ticker
+            st.session_state["sb_query_pending"] = ticker
+
+            # Reload the Deep Dive page through Streamlit navigation
+            st.switch_page(
+                "pages/09_Deep_Dive_Dashboard.py",
+                query_params={"ticker": ticker},
+            )
+
         # 1) exact ticker -> select immediately
         # 1) Exact ticker -> select immediately and normalize the text box.
         if entered and entered in tickers:
             current_ticker = st.session_state.get("active_ticker")
 
-            # Also rerun when only the capitalization needs correcting,
-            # such as "spy" becoming "SPY".
             if entered != current_ticker or raw != entered:
-                st.session_state["active_ticker"] = entered
-                st.session_state["sb_query_pending"] = entered
-                st.query_params.update({"ticker": entered})
-                st.rerun()
+                reload_for_ticker(entered)
 
         # 2) show suggestions when not an exact ticker
         options = []
@@ -1827,12 +1836,8 @@ with mid_stat:
                     use_container_width=True,
                 ):
                     chosen = disp.split(" - ")[0].strip().upper()
+                    reload_for_ticker(chosen)
 
-                    st.session_state["active_ticker"] = chosen
-                    st.session_state["sb_query_pending"] = chosen
-                    st.query_params.update({"ticker": chosen})
-                    st.rerun()
-                    
             st.markdown("</div>", unsafe_allow_html=True)
 # --- end typeahead ---
 
