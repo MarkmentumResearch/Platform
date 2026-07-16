@@ -21,7 +21,7 @@ import numpy as np
 #    "figure.dpi": 110,
 #    "figure.figsize": (9.2, 3.4),   # good aspect for the 3-up rows
 #})
-
+import json
 
 # -------------------------
 # Page & shared style
@@ -1781,19 +1781,41 @@ with mid_stat:
 
         tickers = set(dir_df["tkr"])
 
-        def reload_for_ticker(ticker: str):
+        def hard_reload_for_ticker(ticker: str):
             ticker = ticker.strip().upper()
 
-            # Update all ticker state values before reloading the page
+            # Keep the correct values during the current run.
             st.session_state["active_ticker"] = ticker
             st.session_state["ticker"] = ticker
             st.session_state["sb_query_pending"] = ticker
 
-            # Reload the Deep Dive page through Streamlit navigation
-            st.switch_page(
-                "pages/09_Deep_Dive_Dashboard.py",
-                query_params={"ticker": ticker},
+            # Safely insert the ticker into JavaScript.
+            ticker_js = json.dumps(ticker)
+
+            # Update the browser URL, then perform a genuine browser reload.
+            st.html(
+                f"""
+                <script>
+                (() => {{
+                    const url = new URL(window.location.href);
+                    url.searchParams.set("ticker", {ticker_js});
+
+                    window.history.replaceState(
+                        null,
+                        "",
+                        url.toString()
+                    );
+
+                    window.location.reload();
+                }})();
+                </script>
+                """,
+                unsafe_allow_javascript=True,
             )
+
+            # Prevent the remainder of the old ticker's page from rendering.
+            st.stop()
+            
 
         # 1) exact ticker -> select immediately
         # 1) Exact ticker -> select immediately and normalize the text box.
@@ -1801,7 +1823,7 @@ with mid_stat:
             current_ticker = st.session_state.get("active_ticker")
 
             if entered != current_ticker or raw != entered:
-                reload_for_ticker(entered)
+                hard_reload_for_ticker(entered)
 
         # 2) show suggestions when not an exact ticker
         options = []
@@ -1836,7 +1858,7 @@ with mid_stat:
                     use_container_width=True,
                 ):
                     chosen = disp.split(" - ")[0].strip().upper()
-                    reload_for_ticker(chosen)
+                    hard_reload_for_ticker(chosen)
 
             st.markdown("</div>", unsafe_allow_html=True)
 # --- end typeahead ---
