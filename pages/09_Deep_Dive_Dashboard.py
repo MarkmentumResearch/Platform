@@ -72,11 +72,11 @@ st.markdown("""
 #stat-center + div[data-testid="stHorizontalBlock"]{
   display:flex !important; justify-content:center !important; gap:0 !important;
 }
-#stat-center + div[data-testid="stHorizontalBlock"] > div[data-testid="column"]:nth-child(1),
-#stat-center + div[data-testid="stHorizontalBlock"] > div[data-testid="column"]:nth-child(3){
+#stat-center + div[data-testid="stHorizontalBlock"] > div[data-testid="stColumn"]:nth-child(1),
+#stat-center + div[data-testid="stHorizontalBlock"] > div[data-testid="stColumn"]:nth-child(3){
   flex:1 1 0 !important; min-width:0 !important;      /* symmetric side gutters */
 }
-#stat-center + div[data-testid="stHorizontalBlock"] > div[data-testid="column"]:nth-child(2){
+#stat-center + div[data-testid="stHorizontalBlock"] > div[data-testid="stColumn"]:nth-child(2){
   flex:0 0 auto !important; min-width:0 !important;   /* middle column = shrink-to-fit */
 }
 
@@ -88,11 +88,11 @@ st.markdown("""
   margin-top: 0px !important;   /* ensure no extra gap above Graph 1 */  
   display:flex !important; justify-content:center !important; gap:24px !important;
 }
-#g1-wide + div[data-testid="stHorizontalBlock"] > div[data-testid="column"]:nth-child(1),
-#g1-wide + div[data-testid="stHorizontalBlock"] > div[data-testid="column"]:nth-child(3){
+#g1-wide + div[data-testid="stHorizontalBlock"] > div[data-testid="stColumn"]:nth-child(1),
+#g1-wide + div[data-testid="stHorizontalBlock"] > div[data-testid="stColumn"]:nth-child(3){
   flex:1 1 0 !important; min-width:0 !important;   /* side gutters */
 }
-#g1-wide + div[data-testid="stHorizontalBlock"] > div[data-testid="column"]:nth-child(2){
+#g1-wide + div[data-testid="stHorizontalBlock"] > div[data-testid="stColumn"]:nth-child(2){
   flex:4 1 0 !important; min-width:0 !important;   /* ~66.7% width for Graph 1 */
 }
 
@@ -1745,15 +1745,30 @@ with mid_stat:
         )
 
         try:
-            default_display = dir_df.loc[dir_df["ticker"] == st.session_state["active_ticker"], "display"].iloc[0]
+            default_display = dir_df.loc[
+                dir_df["ticker"] == st.session_state["active_ticker"],
+                "display"
+            ].iloc[0]
         except IndexError:
             default_display = st.session_state["active_ticker"]
 
+        # Apply a pending ticker value before recreating the keyed widget.
+        # This makes the visible text box match the selected ticker.
+        if "sb_query_pending" in st.session_state:
+            st.session_state["sb_query"] = st.session_state.pop(
+                "sb_query_pending"
+            )
+        elif "sb_query" not in st.session_state:
+            st.session_state["sb_query"] = default_display.split(" - ")[0]
+
         q = st.text_input(
-            "Find a ticker", value=default_display.split(" - ")[0],
-            key="sb_query", label_visibility="collapsed",
-            placeholder="Type ticker or name…"
+            "Find a ticker",
+            key="sb_query",
+            label_visibility="collapsed",
+            placeholder="Type ticker or name…",
         )
+
+
         # --- typeahead suggester (drop-in) ---
         # assumes: q (text), dir_df with 'tkr','nam', and SEARCH_BOX_WIDTH_PX defined
         if "display" not in dir_df.columns:
@@ -1767,10 +1782,17 @@ with mid_stat:
         tickers = set(dir_df["tkr"])
 
         # 1) exact ticker -> select immediately
-        if entered and entered in tickers and entered != st.session_state.get("active_ticker"):
-            st.session_state["active_ticker"] = entered
-            st.query_params.update({"ticker": entered})
-            st.rerun()
+        # 1) Exact ticker -> select immediately and normalize the text box.
+        if entered and entered in tickers:
+            current_ticker = st.session_state.get("active_ticker")
+
+            # Also rerun when only the capitalization needs correcting,
+            # such as "spy" becoming "SPY".
+            if entered != current_ticker or raw != entered:
+                st.session_state["active_ticker"] = entered
+                st.session_state["sb_query_pending"] = entered
+                st.query_params.update({"ticker": entered})
+                st.rerun()
 
         # 2) show suggestions when not an exact ticker
         options = []
@@ -1799,11 +1821,18 @@ with mid_stat:
                 unsafe_allow_html=True,
             )
             for i, disp in enumerate(options):
-                if st.button(disp, key=f"sb_sugg_{i}", use_container_width=True):
-                    chosen = disp.split(" - ")[0]  # map label -> ticker
+                if st.button(
+                    disp,
+                    key=f"sb_sugg_{i}",
+                    use_container_width=True,
+                ):
+                    chosen = disp.split(" - ")[0].strip().upper()
+
                     st.session_state["active_ticker"] = chosen
+                    st.session_state["sb_query_pending"] = chosen
                     st.query_params.update({"ticker": chosen})
                     st.rerun()
+                    
             st.markdown("</div>", unsafe_allow_html=True)
 # --- end typeahead ---
 
