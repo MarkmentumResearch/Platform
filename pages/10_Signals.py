@@ -26,7 +26,7 @@ div[data-testid="stHorizontalBlock"]{
 }
 
 /* Each Streamlit column behaves like a grid item */
-div[data-testid="stHorizontalBlock"] > div[data-testid="column"]{
+div[data-testid="stHorizontalBlock"] > div[data-testid="stColumn"]{
   flex: 1 1 32%;                 /* desktop target ~3-up */
   min-width: 300px;              /* allow 3-up comfortably */
 }
@@ -80,7 +80,7 @@ html, body, [class^="css"], .stMarkdown, .stDataFrame, .stTable, .stText, .stBut
 /* DESKTOP (>=1700px): force 3-up, cards can expand within their column */
 @media (min-width: 1700px){
   div[data-testid="stHorizontalBlock"] { flex-wrap: nowrap; }
-  div[data-testid="stHorizontalBlock"] > div[data-testid="column"]{
+  div[data-testid="stHorizontalBlock"] > div[data-testid="stColumn"]{
     flex: 0 0 32%;
     min-width: 300px;
   }
@@ -89,7 +89,7 @@ html, body, [class^="css"], .stMarkdown, .stDataFrame, .stTable, .stText, .stBut
 
 /* NON-DESKTOP (<1700px): ALWAYS 1-up, centered, fixed standard width */
 @media (max-width: 1699.98px){
-  div[data-testid="stHorizontalBlock"] > div[data-testid="column"]{
+  div[data-testid="stHorizontalBlock"] > div[data-testid="stColumn"]{
     flex: 0 0 100%;
   }
   .card{
