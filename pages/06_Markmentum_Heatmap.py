@@ -10,7 +10,7 @@ import streamlit as st
 from urllib.parse import quote_plus
 
 # ---------- Page ----------
-#st.cache_data.clear()
+st.cache_data.clear()
 st.set_page_config(page_title="Markmentum Heatmap", layout="wide")
 
 # -------------------------
