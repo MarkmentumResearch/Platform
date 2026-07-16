@@ -23,7 +23,7 @@ div[data-testid="stHorizontalBlock"]{
 }
 
 /* Each Streamlit column acts like a grid item */
-div[data-testid="stHorizontalBlock"] > div[data-testid="column"]{
+div[data-testid="stHorizontalBlock"] > div[data-testid="stColumn"]{
   flex: 1 1 32%;
   min-width: 300px;
 }
@@ -78,7 +78,7 @@ th.col-ticker,   td.col-ticker   { width:74px; }
 /* DESKTOP (>=1700px): force 3-up */
 @media (min-width: 1700px){
   div[data-testid="stHorizontalBlock"] { flex-wrap: nowrap; }
-  div[data-testid="stHorizontalBlock"] > div[data-testid="column"]{
+  div[data-testid="stHorizontalBlock"] > div[data-testid="stColumn"]{
     flex: 0 0 32%;
     min-width: 300px;
   }
@@ -87,7 +87,7 @@ th.col-ticker,   td.col-ticker   { width:74px; }
 
 /* NON-DESKTOP (<1699.98px): ALWAYS 1-up, centered, fixed standard width */
 @media (max-width: 1699.98px){
-  div[data-testid="stHorizontalBlock"] > div[data-testid="column"]{
+  div[data-testid="stHorizontalBlock"] > div[data-testid="stColumn"]{
     flex: 0 0 100%;
   }
   .card{
