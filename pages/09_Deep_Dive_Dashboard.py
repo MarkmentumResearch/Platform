@@ -168,15 +168,15 @@ st.markdown("""
 
 /* Symmetric side gutters + shrink-to-fit middle column */
 #sp-center ~ div[data-testid="stHorizontalBlock"]:first-of-type
-  > div[data-testid="column"]:nth-child(1),
+  > div[data-testid="stcolumn"]:nth-child(1),
 #sp-center ~ div[data-testid="stHorizontalBlock"]:first-of-type
-  > div[data-testid="column"]:nth-child(3){
+  > div[data-testid="stcolumn"]:nth-child(3){
   flex:1 1 0 !important;
   min-width:0 !important;
 }
 
 #sp-center ~ div[data-testid="stHorizontalBlock"]:first-of-type
-  > div[data-testid="column"]:nth-child(2){
+  > div[data-testid="stcolumn"]:nth-child(2){
   flex:0 0 auto !important;      /* middle column = content width (like Stat Box) */
   min-width:0 !important;
 }
