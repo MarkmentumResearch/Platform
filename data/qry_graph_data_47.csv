@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,change_pct
-PYPL,"PAYPAL HOLDINGS, INC.",Financials,2026-07-15,-0.17
-TTD,"THE TRADE DESK, INC.",Communication Services,2026-07-15,-0.1528
-STLA,STELLANTIS NV,MR Discretion,2026-07-15,-0.1169
-GDDY,GODADDY INC.,Information Technology,2026-07-15,-0.0931
-IT,"GARTNER, INC.",Information Technology,2026-07-15,-0.0906
-BBY,"BEST BUY CO., INC.",Consumer Discretionary,2026-07-15,-0.0886
-ADBE,ADOBE INC.,Information Technology,2026-07-15,-0.0788
-INTU,INTUIT INC.,Information Technology,2026-07-15,-0.0788
-GPN,GLOBAL PAYMENTS INC.,Financials,2026-07-15,-0.078
-WDAY,"WORKDAY, INC.",Information Technology,2026-07-15,-0.0754
+PYPL,"PAYPAL HOLDINGS, INC.",Financials,2026-07-16,-0.1602
+IT,"GARTNER, INC.",Information Technology,2026-07-16,-0.1487
+TTD,"THE TRADE DESK, INC.",Communication Services,2026-07-16,-0.1417
+GDDY,GODADDY INC.,Information Technology,2026-07-16,-0.131
+STLA,STELLANTIS NV,MR Discretion,2026-07-16,-0.1275
+INTU,INTUIT INC.,Information Technology,2026-07-16,-0.1212
+ADBE,ADOBE INC.,Information Technology,2026-07-16,-0.121
+GPN,GLOBAL PAYMENTS INC.,Financials,2026-07-16,-0.1037
+FIS,FIDELITY NATIONAL INFORMATION SERVICES,Financials,2026-07-16,-0.1023
+VRSK,"VERISK ANALYTICS, INC.",Industrials,2026-07-16,-0.1003
