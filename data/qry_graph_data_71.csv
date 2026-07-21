@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score_day_change,current_model_score,previous_model_score
-KLAC,KLA ,Information Technology,2026-07-17,-67.0,-32.0,35.0
-DVN,DEVON ENERGY ,Energy,2026-07-17,-62.0,-9.0,53.0
-EWT,ISHARES:MSCI TAIWAN,Foreign,2026-07-17,-61.0,-39.0,22.0
-TDW,TIDEWATER INC.,MR Discretion,2026-07-17,-61.0,-46.0,15.0
-LYV,"LIVE NATION ENTERTAINMENT, INC.",Communication Services,2026-07-17,-60.0,-26.0,34.0
-BR,"BROADRIDGE FINANCIAL SOLUTIONS, INC.",Industrials,2026-07-17,-58.0,-60.0,-2.0
-CAG,"CONAGRA BRANDS, INC.",Consumer Staples,2026-07-17,-57.0,-54.0,3.0
-WRB,W. R. BERKLEY ,Financials,2026-07-17,-56.0,-74.0,-18.0
-ADI,"ANALOG DEVICES, INC.",Information Technology,2026-07-17,-54.0,9.0,63.0
-MPWR,"MONOLITHIC POWER SYSTEMS, INC.",Information Technology,2026-07-17,-54.0,9.0,63.0
+CRM,"SALESFORCE, INC.",Information Technology,2026-07-20,-97.0,-85.0,12.0
+DG,DOLLAR GENERAL ,Consumer Staples,2026-07-20,-83.0,-93.0,-10.0
+IT,"GARTNER, INC.",Information Technology,2026-07-20,-81.0,-58.0,23.0
+ADSK,"AUTODESK, INC.",Information Technology,2026-07-20,-76.0,-85.0,-9.0
+AWK,"AMERICAN WATER WORKS COMPANY, INC.",Utilities,2026-07-20,-75.0,-102.0,-27.0
+GIS,"GENERAL MILLS, INC.",Consumer Staples,2026-07-20,-75.0,-102.0,-27.0
+TAP,MOLSON COORS BEVERAGE COMPANY,Consumer Staples,2026-07-20,-61.0,-54.0,7.0
+FDX,FEDEX ,Industrials,2026-07-20,-59.0,-15.0,44.0
+NDAQ,"NASDAQ, INC.",Financials,2026-07-20,-57.0,-67.0,-10.0
+PFE,PFIZER INC.,Health Care,2026-07-20,-57.0,-13.0,44.0
