@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score_mtd_change,current_model_score,previous_model_score
-AAPL,APPLE INC.,Information Technology,2026-07-20,-146.0,-63.0,83.0
-XLRE,SEL SECTOR:RL EST SPDR,Sector & Style ETFs,2026-07-20,-132.0,-67.0,65.0
-INTU,INTUIT INC.,Information Technology,2026-07-20,-127.0,-53.0,74.0
-BLK,"BLACKROCK, INC.",Financials,2026-07-20,-124.0,-44.0,80.0
-NKE,"NIKE, INC.",Consumer Discretionary,2026-07-20,-122.0,-38.0,84.0
-ADSK,"AUTODESK, INC.",Information Technology,2026-07-20,-110.0,-85.0,25.0
-TYL,"TYLER TECHNOLOGIES, INC.",Information Technology,2026-07-20,-106.0,-85.0,21.0
-BRO,"BROWN & BROWN, INC.",Financials,2026-07-20,-100.0,-102.0,-2.0
-ENZL,ISHARES:MSCI NEW ZLND,Foreign,2026-07-20,-100.0,-43.0,57.0
-TTD,"THE TRADE DESK, INC.",Communication Services,2026-07-20,-96.0,-56.0,40.0
+AAPL,APPLE INC.,Information Technology,2026-07-21,-146.0,-63.0,83.0
+BLK,"BLACKROCK, INC.",Financials,2026-07-21,-139.0,-59.0,80.0
+XLRE,SEL SECTOR:RL EST SPDR,Sector & Style ETFs,2026-07-21,-132.0,-67.0,65.0
+NKE,"NIKE, INC.",Consumer Discretionary,2026-07-21,-130.0,-46.0,84.0
+INTU,INTUIT INC.,Information Technology,2026-07-21,-127.0,-53.0,74.0
+NWSA,NEWS CORP.,Communication Services,2026-07-21,-127.0,-102.0,25.0
+XLC,SEL SECTOR:COMM SVC SPDR,Sector & Style ETFs,2026-07-21,-126.0,-53.0,73.0
+VICI,VICI PROPERTIES INC.,Real Estate,2026-07-21,-121.0,-83.0,38.0
+FIS,FIDELITY NATIONAL INFORMATION SERVICES,Financials,2026-07-21,-117.0,-77.0,40.0
+MCO,MOODY'S ,Financials,2026-07-21,-116.0,-100.0,16.0

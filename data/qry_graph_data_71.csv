@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score_day_change,current_model_score,previous_model_score
-CRM,"SALESFORCE, INC.",Information Technology,2026-07-20,-97.0,-85.0,12.0
-DG,DOLLAR GENERAL ,Consumer Staples,2026-07-20,-83.0,-93.0,-10.0
-IT,"GARTNER, INC.",Information Technology,2026-07-20,-81.0,-58.0,23.0
-ADSK,"AUTODESK, INC.",Information Technology,2026-07-20,-76.0,-85.0,-9.0
-AWK,"AMERICAN WATER WORKS COMPANY, INC.",Utilities,2026-07-20,-75.0,-102.0,-27.0
-GIS,"GENERAL MILLS, INC.",Consumer Staples,2026-07-20,-75.0,-102.0,-27.0
-TAP,MOLSON COORS BEVERAGE COMPANY,Consumer Staples,2026-07-20,-61.0,-54.0,7.0
-FDX,FEDEX ,Industrials,2026-07-20,-59.0,-15.0,44.0
-NDAQ,"NASDAQ, INC.",Financials,2026-07-20,-57.0,-67.0,-10.0
-PFE,PFIZER INC.,Health Care,2026-07-20,-57.0,-13.0,44.0
+HOOD,"ROBINHOOD MARKETS, INC.",Financials,2026-07-21,-87.0,-47.0,40.0
+HAS,"HASBRO, INC.",Consumer Discretionary,2026-07-21,-74.0,-27.0,47.0
+PAYX,"PAYCHEX, INC.",Industrials,2026-07-21,-68.0,-70.0,-2.0
+NWSA,NEWS CORP.,Communication Services,2026-07-21,-67.0,-102.0,-35.0
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-07-21,-67.0,-10.0,57.0
+ES=F,E-MINI S&P 500 FUTURES,Futures,2026-07-21,-66.0,-18.0,48.0
+GOOGL,ALPHABET INC.,Communication Services,2026-07-21,-63.0,8.0,71.0
+EWD,ISHARES:MSCI SWEDEN,Foreign,2026-07-21,-62.0,-26.0,36.0
+EWN,ISHARES:MSCI NETHERLANDS,Foreign,2026-07-21,-59.0,-36.0,23.0
+EWG,ISHARES:MSCI GERMANY,Foreign,2026-07-21,-58.0,-32.0,26.0
