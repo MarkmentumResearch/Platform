@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,mtd_return_pct
-GLW,CORNING INC.,Information Technology,2026-07-22,-0.3969
-SNDK,SANDISK CORPORATION,Information Technology,2026-07-22,-0.2966
-MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-07-22,-0.2917
-KLAC,KLA ,Information Technology,2026-07-22,-0.2884
-GNRC,GENERAC HOLDINGS INC.,Industrials,2026-07-22,-0.2711
-IBM,INTERNATIONAL BUSINESS MACHINES ,Information Technology,2026-07-22,-0.2683
-INTC,INTEL ,Information Technology,2026-07-22,-0.2651
-LRCX,LAM RESEARCH ,Information Technology,2026-07-22,-0.2632
-TER,"TERADYNE, INC.",Information Technology,2026-07-22,-0.2364
-AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-07-22,-0.2339
+GLW,CORNING INC.,Information Technology,2026-07-23,-0.389
+MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-07-23,-0.2973
+SNDK,SANDISK CORPORATION,Information Technology,2026-07-23,-0.2918
+INTC,INTEL ,Information Technology,2026-07-23,-0.2822
+GNRC,GENERAC HOLDINGS INC.,Industrials,2026-07-23,-0.2811
+KLAC,KLA ,Information Technology,2026-07-23,-0.275
+IBM,INTERNATIONAL BUSINESS MACHINES ,Information Technology,2026-07-23,-0.2651
+LRCX,LAM RESEARCH ,Information Technology,2026-07-23,-0.262
+TSLA,"TESLA, INC.",Consumer Discretionary,2026-07-23,-0.2399
+TER,"TERADYNE, INC.",Information Technology,2026-07-23,-0.2275
