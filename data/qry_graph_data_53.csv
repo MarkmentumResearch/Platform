@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,wtd_return_pct
-TSLA,"TESLA, INC.",Consumer Discretionary,2026-07-23,-0.1606
-ROL,"ROLLINS, INC.",Industrials,2026-07-23,-0.1257
-MSCI,MSCI INC.,Financials,2026-07-23,-0.1211
-WDAY,"WORKDAY, INC.",Information Technology,2026-07-23,-0.1168
-TMUS,"T-MOBILE US, INC.",Communication Services,2026-07-23,-0.1144
-NOW,"SERVICENOW, INC.",Information Technology,2026-07-23,-0.1095
-CVNA,CARVANA CO.,Consumer Discretionary,2026-07-23,-0.1062
-ADBE,ADOBE INC.,Information Technology,2026-07-23,-0.1057
-TYL,"TYLER TECHNOLOGIES, INC.",Information Technology,2026-07-23,-0.0981
-CRWD,"CROWDSTRIKE HOLDINGS, INC.",Information Technology,2026-07-23,-0.0968
+TSLA,"TESLA, INC.",Consumer Discretionary,2026-07-24,-0.1781
+ROL,"ROLLINS, INC.",Industrials,2026-07-24,-0.1452
+MRNA,"MODERNA, INC.",Health Care,2026-07-24,-0.1254
+MSCI,MSCI INC.,Financials,2026-07-24,-0.1239
+CHRW,"C.H. ROBINSON WORLDWIDE, INC.",Industrials,2026-07-24,-0.1055
+CVNA,CARVANA CO.,Consumer Discretionary,2026-07-24,-0.1022
+DECK,DECKERS OUTDOOR ,Consumer Discretionary,2026-07-24,-0.0981
+CRWD,"CROWDSTRIKE HOLDINGS, INC.",Information Technology,2026-07-24,-0.0975
+PANW,"PALO ALTO NETWORKS, INC.",Information Technology,2026-07-24,-0.0973
+ORCL,ORACLE ,Information Technology,2026-07-24,-0.0903
