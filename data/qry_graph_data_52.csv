@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,wtd_return_pct
-WDAY,"WORKDAY, INC.",Information Technology,2026-07-27,0.0901
-ADSK,"AUTODESK, INC.",Information Technology,2026-07-27,0.077
-EXPE,"EXPEDIA GROUP, INC.",Consumer Discretionary,2026-07-27,0.0709
-PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,2026-07-27,0.07
-NOW,"SERVICENOW, INC.",Information Technology,2026-07-27,0.0686
-CHTR,"CHARTER COMMUNICATIONS, INC.",Communication Services,2026-07-27,0.0673
-DASH,"DOORDASH, INC.",Consumer Discretionary,2026-07-27,0.0663
-CPRT,"COPART, INC.",Industrials,2026-07-27,0.0662
-TYL,"TYLER TECHNOLOGIES, INC.",Information Technology,2026-07-27,0.063
-CRM,"SALESFORCE, INC.",Information Technology,2026-07-27,0.0607
+WDAY,"WORKDAY, INC.",Information Technology,2026-07-28,0.1799
+IQV,IQVIA HOLDINGS INC,Health Care,2026-07-28,0.1677
+EXPE,"EXPEDIA GROUP, INC.",Consumer Discretionary,2026-07-28,0.1379
+CHTR,"CHARTER COMMUNICATIONS, INC.",Communication Services,2026-07-28,0.1351
+ADSK,"AUTODESK, INC.",Information Technology,2026-07-28,0.1317
+DASH,"DOORDASH, INC.",Consumer Discretionary,2026-07-28,0.1308
+BKNG,BOOKING HOLDINGS INC.,Consumer Discretionary,2026-07-28,0.1231
+TYL,"TYLER TECHNOLOGIES, INC.",Information Technology,2026-07-28,0.1218
+ACN,ACCENTURE PUBLIC LIMITED COMPANY,Information Technology,2026-07-28,0.1202
+NOW,"SERVICENOW, INC.",Information Technology,2026-07-28,0.1199
