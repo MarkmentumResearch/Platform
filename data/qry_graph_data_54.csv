@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-07-28,288.47
-INTC,INTEL ,Information Technology,2026-07-28,287.59
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-07-28,134.46
-T,AT&T INC.,Communication Services,2026-07-28,131.81
-MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-07-28,108.63
-RIG,TRANSOCEAN LTD,MR Discretion,2026-07-28,106.86
-AAPL,APPLE INC.,Information Technology,2026-07-28,101.46
-QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-07-28,94.08
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-07-28,88.78
-PFE,PFIZER INC.,Health Care,2026-07-28,88.3
+INTC,INTEL ,Information Technology,2026-07-29,439.99
+NVDA,NVIDIA ,Information Technology,2026-07-29,436.15
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-07-29,232.82
+T,AT&T INC.,Communication Services,2026-07-29,209.3
+MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-07-29,178.48
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-07-29,159.48
+RIG,TRANSOCEAN LTD,MR Discretion,2026-07-29,157.87
+AAPL,APPLE INC.,Information Technology,2026-07-29,157.55
+QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-07-29,151.31
+NFLX,"NETFLIX, INC.",Communication Services,2026-07-29,129.99

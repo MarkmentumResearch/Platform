@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-INTC,INTEL ,Information Technology,2026-07-28,154.35
-NVDA,NVIDIA ,Information Technology,2026-07-28,134.11
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-07-28,75.71
-MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-07-28,61.04
-T,AT&T INC.,Communication Services,2026-07-28,57.35
-AAPL,APPLE INC.,Information Technology,2026-07-28,51.86
-QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-07-28,51.4
-PFE,PFIZER INC.,Health Care,2026-07-28,49.94
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-07-28,47.32
-NFLX,"NETFLIX, INC.",Communication Services,2026-07-28,47.16
+INTC,INTEL ,Information Technology,2026-07-29,152.39
+NVDA,NVIDIA ,Information Technology,2026-07-29,147.68
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-07-29,98.36
+T,AT&T INC.,Communication Services,2026-07-29,77.48
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-07-29,70.7
+MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-07-29,69.85
+QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-07-29,57.23
+AAPL,APPLE INC.,Information Technology,2026-07-29,56.09
+HYG,ISHARES:IBOXX $HY CORP,Bonds,2026-07-29,53.08
+BSX,BOSTON SCIENTIFIC ,Health Care,2026-07-29,51.29
