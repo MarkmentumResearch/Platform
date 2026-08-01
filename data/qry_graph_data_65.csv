@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,qtd_return_pct
-GLW,CORNING INC.,Information Technology,2026-07-30,-0.4706
-SNDK,SANDISK CORPORATION,Information Technology,2026-07-30,-0.4371
-KLAC,KLA ,Information Technology,2026-07-30,-0.4023
-MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-07-30,-0.3847
-COHR,COHERENT CORP.,Information Technology,2026-07-30,-0.3686
-INTC,INTEL ,Information Technology,2026-07-30,-0.3473
-GNRC,GENERAC HOLDINGS INC.,Industrials,2026-07-30,-0.3446
-VRT,VERTIV HOLDINGS CO,Industrials,2026-07-30,-0.3205
-LRCX,LAM RESEARCH ,Information Technology,2026-07-30,-0.3129
-FLEX,FLEX LTD.,Information Technology,2026-07-30,-0.3095
+SNDK,SANDISK CORPORATION,Information Technology,2026-07-31,-0.4657
+GLW,CORNING INC.,Information Technology,2026-07-31,-0.4588
+KLAC,KLA ,Information Technology,2026-07-31,-0.3941
+MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-07-31,-0.3704
+INTC,INTEL ,Information Technology,2026-07-31,-0.354
+COHR,COHERENT CORP.,Information Technology,2026-07-31,-0.3336
+GNRC,GENERAC HOLDINGS INC.,Industrials,2026-07-31,-0.3268
+LRCX,LAM RESEARCH ,Information Technology,2026-07-31,-0.3238
+FLEX,FLEX LTD.,Information Technology,2026-07-31,-0.2981
+AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-07-31,-0.2978
