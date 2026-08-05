@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,qtd_return_pct
-SNDK,SANDISK CORPORATION,Information Technology,2026-08-03,-0.4335
-GLW,CORNING INC.,Information Technology,2026-08-03,-0.4259
-KLAC,KLA ,Information Technology,2026-08-03,-0.3943
-MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-08-03,-0.3495
-INTC,INTEL ,Information Technology,2026-08-03,-0.3483
-LRCX,LAM RESEARCH ,Information Technology,2026-08-03,-0.3201
-GNRC,GENERAC HOLDINGS INC.,Industrials,2026-08-03,-0.3128
-AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-08-03,-0.2833
-MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-08-03,-0.2814
-FLEX,FLEX LTD.,Information Technology,2026-08-03,-0.2753
+GLW,CORNING INC.,Information Technology,2026-08-04,-0.374
+SNDK,SANDISK CORPORATION,Information Technology,2026-08-04,-0.3721
+KLAC,KLA ,Information Technology,2026-08-04,-0.3522
+INTC,INTEL ,Information Technology,2026-08-04,-0.2777
+LRCX,LAM RESEARCH ,Information Technology,2026-08-04,-0.2667
+MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-08-04,-0.2662
+GNRC,GENERAC HOLDINGS INC.,Industrials,2026-08-04,-0.2533
+AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-08-04,-0.244
+MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-08-04,-0.2267
+APTV,APTIV PLC,Consumer Discretionary,2026-08-04,-0.2225
