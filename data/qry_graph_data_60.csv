@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-08-04,263.33
-PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,2026-08-04,252.32
-INTC,INTEL ,Information Technology,2026-08-04,220.99
-AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-08-04,160.58
-AAPL,APPLE INC.,Information Technology,2026-08-04,143.05
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-08-04,129.08
-MSFT,MICROSOFT ,Information Technology,2026-08-04,117.22
-T,AT&T INC.,Communication Services,2026-08-04,109.64
-QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-08-04,104.74
-PFE,PFIZER INC.,Health Care,2026-08-04,102.84
+NVDA,NVIDIA ,Information Technology,2026-08-05,421.52
+PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,2026-08-05,315.83
+INTC,INTEL ,Information Technology,2026-08-05,306.38
+AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-08-05,205.7
+AAPL,APPLE INC.,Information Technology,2026-08-05,192.49
+T,AT&T INC.,Communication Services,2026-08-05,176.44
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-08-05,173.77
+MSFT,MICROSOFT ,Information Technology,2026-08-05,150.61
+PFE,PFIZER INC.,Health Care,2026-08-05,149.89
+QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-08-05,138.28
