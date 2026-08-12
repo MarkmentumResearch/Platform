@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,qtd_return_pct
-SNDK,SANDISK CORPORATION,Information Technology,2026-08-10,-0.4556
-GLW,CORNING INC.,Information Technology,2026-08-10,-0.3824
-KLAC,KLA ,Information Technology,2026-08-10,-0.3612
-APP,APPLOVIN CORP,Information Technology,2026-08-10,-0.342
-WDC,WESTERN DIGITAL ,Information Technology,2026-08-10,-0.3137
-INTC,INTEL ,Information Technology,2026-08-10,-0.3016
-MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-08-10,-0.2999
-GNRC,GENERAC HOLDINGS INC.,Industrials,2026-08-10,-0.2962
-LRCX,LAM RESEARCH ,Information Technology,2026-08-10,-0.2929
-AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-08-10,-0.2778
+MNST,MONSTER BEVERAGE ,Consumer Staples,2026-08-11,-0.5263
+SNDK,SANDISK CORPORATION,Information Technology,2026-08-11,-0.441
+APP,APPLOVIN CORP,Information Technology,2026-08-11,-0.3815
+GLW,CORNING INC.,Information Technology,2026-08-11,-0.3768
+KLAC,KLA ,Information Technology,2026-08-11,-0.3356
+WDC,WESTERN DIGITAL ,Information Technology,2026-08-11,-0.3144
+INTC,INTEL ,Information Technology,2026-08-11,-0.3002
+MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-08-11,-0.2873
+LRCX,LAM RESEARCH ,Information Technology,2026-08-11,-0.2814
+AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-08-11,-0.273
