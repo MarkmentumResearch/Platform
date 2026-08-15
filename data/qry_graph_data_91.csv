@@ -3,21 +3,21 @@ Sector & Style ETFs,1,24,2,27,3.7,88.9,7.4
 Indices,0,5,0,5,0.0,100.0,0.0
 Futures,0,3,0,3,0.0,100.0,0.0
 Currencies,0,6,0,6,0.0,100.0,0.0
-Commodities,8,11,0,19,42.1,57.9,0.0
+Commodities,1,15,3,19,5.3,78.9,15.8
 Bonds,0,13,0,13,0.0,100.0,0.0
-Yields,1,2,0,3,33.3,66.7,0.0
+Yields,0,3,0,3,0.0,100.0,0.0
 Volatility,0,2,0,2,0.0,100.0,0.0
-Foreign,8,29,1,38,21.1,76.3,2.6
-Communication Services,1,15,3,19,5.3,78.9,15.8
-Consumer Discretionary,8,38,1,47,17.0,80.9,2.1
-Consumer Staples,0,30,5,35,0.0,85.7,14.3
-Energy,3,14,4,21,14.3,66.7,19.0
-Financials,4,64,8,76,5.3,84.2,10.5
-Health Care,11,46,2,59,18.6,78.0,3.4
-Industrials,9,65,6,80,11.3,81.3,7.5
-Information Technology,12,54,9,75,16.0,72.0,12.0
-Materials,10,16,0,26,38.5,61.5,0.0
-Real Estate,0,23,8,31,0.0,74.2,25.8
-Utilities,0,17,14,31,0.0,54.8,45.2
-MR Discretion,1,30,6,37,2.7,81.1,16.2
-Total,77,507,69,653,11.8,77.6,10.6
+Foreign,7,31,0,38,18.4,81.6,0.0
+Communication Services,1,17,1,19,5.3,89.5,5.3
+Consumer Discretionary,13,33,1,47,27.7,70.2,2.1
+Consumer Staples,3,28,4,35,8.6,80.0,11.4
+Energy,1,13,7,21,4.8,61.9,33.3
+Financials,5,70,1,76,6.6,92.1,1.3
+Health Care,19,38,2,59,32.2,64.4,3.4
+Industrials,10,68,2,80,12.5,85.0,2.5
+Information Technology,22,48,5,75,29.3,64.0,6.7
+Materials,9,17,0,26,34.6,65.4,0.0
+Real Estate,1,22,8,31,3.2,71.0,25.8
+Utilities,0,11,20,31,0.0,35.5,64.5
+MR Discretion,1,25,11,37,2.7,67.6,29.7
+Total,94,492,67,653,14.4,75.3,10.3
