@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-INTC,INTEL ,Information Technology,2026-08-14,639.89
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-08-14,502.34
-NVDA,NVIDIA ,Information Technology,2026-08-14,500.45
-RIG,TRANSOCEAN LTD,MR Discretion,2026-08-14,269.03
-PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,2026-08-14,196.36
-AAPL,APPLE INC.,Information Technology,2026-08-14,192.53
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-08-14,189.9
-PFE,PFIZER INC.,Health Care,2026-08-14,178.85
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-08-14,176.17
-T,AT&T INC.,Communication Services,2026-08-14,172.93
+NVDA,NVIDIA ,Information Technology,2026-08-17,93.68
+INTC,INTEL ,Information Technology,2026-08-17,88.62
+NKE,"NIKE, INC.",Consumer Discretionary,2026-08-17,58.66
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-08-17,55.47
+XLF,SEL SECTOR:FINL S SPDR,Sector & Style ETFs,2026-08-17,45.64
+RIG,TRANSOCEAN LTD,MR Discretion,2026-08-17,45.52
+AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-08-17,43.9
+AAPL,APPLE INC.,Information Technology,2026-08-17,38.17
+T,AT&T INC.,Communication Services,2026-08-17,36.79
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-08-17,34.36
