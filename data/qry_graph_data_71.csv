@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score_day_change,current_model_score,previous_model_score
-ZBH,"ZIMMER BIOMET HOLDINGS, INC.",Health Care,2026-08-17,-86.0,-93.0,-7.0
-EBAY,EBAY INC.,Consumer Discretionary,2026-08-17,-80.0,-38.0,42.0
-GDDY,GODADDY INC.,Information Technology,2026-08-17,-77.0,-70.0,7.0
-KIM,KIMCO REALTY .,Real Estate,2026-08-17,-77.0,-31.0,46.0
-BSX,BOSTON SCIENTIFIC ,Health Care,2026-08-17,-76.0,-85.0,-9.0
-PTC,PTC INC.,Information Technology,2026-08-17,-75.0,-102.0,-27.0
-HLX,"HELIX ENERGY SOLUTIONS GROUP, INC.",MR Discretion,2026-08-17,-74.0,-68.0,6.0
-TTD,"THE TRADE DESK, INC.",Communication Services,2026-08-17,-73.0,-14.0,59.0
-FISV,"FISERV, INC.",Financials,2026-08-17,-72.0,-79.0,-7.0
-VICI,VICI PROPERTIES INC.,Real Estate,2026-08-17,-70.0,-47.0,23.0
+NWSA,NEWS CORP.,Communication Services,2026-08-18,-98.0,-79.0,19.0
+KDP,KEURIG DR PEPPER INC.,Consumer Staples,2026-08-18,-76.0,-32.0,44.0
+PODD,INSULET ,Health Care,2026-08-18,-74.0,-33.0,41.0
+MA,MASTERCARD INC..,Financials,2026-08-18,-67.0,-51.0,16.0
+CMCSA,COMCAST ,Communication Services,2026-08-18,-65.0,-68.0,-3.0
+TRGP,TARGA RESOURCES CORP.,Energy,2026-08-18,-65.0,-18.0,47.0
+IBM,INTERNATIONAL BUSINESS MACHINES ,Information Technology,2026-08-18,-62.0,-65.0,-3.0
+CL,COLGATE-PALMOLIVE COMPANY,Consumer Staples,2026-08-18,-58.0,-53.0,5.0
+TPR,"TAPESTRY, INC.",Consumer Discretionary,2026-08-18,-53.0,0.0,53.0
+EWM,ISHARES:MSCI MALAYSIA,Foreign,2026-08-18,-49.0,-54.0,-5.0
