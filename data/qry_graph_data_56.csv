@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score_wtd_change,current_model_score,previous_model_score
-NWSA,NEWS CORP.,Communication Services,2026-08-18,-112.0,-79.0,33.0
-GDDY,GODADDY INC.,Information Technology,2026-08-18,-86.0,-79.0,7.0
-TTD,"THE TRADE DESK, INC.",Communication Services,2026-08-18,-83.0,-24.0,59.0
-CMG,"CHIPOTLE MEXICAN GRILL, INC.",Consumer Discretionary,2026-08-18,-78.0,-34.0,44.0
-ADBE,ADOBE INC.,Information Technology,2026-08-18,-76.0,-100.0,-24.0
-BSX,BOSTON SCIENTIFIC ,Health Care,2026-08-18,-76.0,-85.0,-9.0
-CRM,"SALESFORCE, INC.",Information Technology,2026-08-18,-75.0,-102.0,-27.0
-PTC,PTC INC.,Information Technology,2026-08-18,-75.0,-102.0,-27.0
-PODD,INSULET ,Health Care,2026-08-18,-74.0,-33.0,41.0
-BMY,BRISTOL-MYERS SQUIBB COMPANY,Health Care,2026-08-18,-72.0,-30.0,42.0
+L,LOEWS ,Financials,2026-08-19,-109.0,-46.0,63.0
+NWSA,NEWS CORP.,Communication Services,2026-08-19,-99.0,-66.0,33.0
+TAP,MOLSON COORS BEVERAGE COMPANY,Consumer Staples,2026-08-19,-98.0,-88.0,10.0
+MUB,ISHARES:NATL MUNI BOND,Bonds,2026-08-19,-93.0,-9.0,84.0
+TJX,"THE TJX COMPANIES, INC.",Consumer Discretionary,2026-08-19,-92.0,-29.0,63.0
+STLA,STELLANTIS NV,MR Discretion,2026-08-19,-90.0,-70.0,20.0
+CMG,"CHIPOTLE MEXICAN GRILL, INC.",Consumer Discretionary,2026-08-19,-87.0,-43.0,44.0
+CTAS,CINTAS ,Industrials,2026-08-19,-82.0,-65.0,17.0
+XLP,SEL SECTOR:C STP SPDR,Sector & Style ETFs,2026-08-19,-82.0,-83.0,-1.0
+ADBE,ADOBE INC.,Information Technology,2026-08-19,-78.0,-102.0,-24.0
