@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-MRNA,"MODERNA, INC.",Health Care,2026-08-20,99.5
-NVDA,NVIDIA ,Information Technology,2026-08-20,92.46
-INTC,INTEL ,Information Technology,2026-08-20,85.65
-WMT,WALMART INC.,Consumer Staples,2026-08-20,83.63
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-08-20,51.29
-PCG,PG&E ,Utilities,2026-08-20,49.68
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-08-20,45.52
-HYG,ISHARES:IBOXX $HY CORP,Bonds,2026-08-20,41.76
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-08-20,41.19
-AAPL,APPLE INC.,Information Technology,2026-08-20,40.96
+NVDA,NVIDIA ,Information Technology,2026-08-21,98.87
+INTC,INTEL ,Information Technology,2026-08-21,91.67
+MRNA,"MODERNA, INC.",Health Care,2026-08-21,87.32
+TSLA,"TESLA, INC.",Consumer Discretionary,2026-08-21,59.22
+HOOD,"ROBINHOOD MARKETS, INC.",Financials,2026-08-21,50.46
+AAPL,APPLE INC.,Information Technology,2026-08-21,46.88
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-08-21,45.12
+WMT,WALMART INC.,Consumer Staples,2026-08-21,44.45
+PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,2026-08-21,41.08
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-08-21,39.19
