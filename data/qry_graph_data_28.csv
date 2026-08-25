@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-08-21,98.87
-INTC,INTEL ,Information Technology,2026-08-21,91.67
-MRNA,"MODERNA, INC.",Health Care,2026-08-21,87.32
-TSLA,"TESLA, INC.",Consumer Discretionary,2026-08-21,59.22
-HOOD,"ROBINHOOD MARKETS, INC.",Financials,2026-08-21,50.46
-AAPL,APPLE INC.,Information Technology,2026-08-21,46.88
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-08-21,45.12
-WMT,WALMART INC.,Consumer Staples,2026-08-21,44.45
-PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,2026-08-21,41.08
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-08-21,39.19
+NVDA,NVIDIA ,Information Technology,2026-08-24,135.19
+INTC,INTEL ,Information Technology,2026-08-24,96.9
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-08-24,53.28
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-08-24,39.93
+TSLA,"TESLA, INC.",Consumer Discretionary,2026-08-24,39.19
+QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-08-24,37.44
+RIG,TRANSOCEAN LTD,MR Discretion,2026-08-24,37.02
+WMT,WALMART INC.,Consumer Staples,2026-08-24,35.62
+PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,2026-08-24,35.12
+AAPL,APPLE INC.,Information Technology,2026-08-24,34.67
