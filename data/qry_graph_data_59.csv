@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,mtd_return_pct
-GEOS,GEOSPACE TECHNOLOGIES ,MR Discretion,2026-08-24,-0.2654
-DVA,DAVITA INC.,Health Care,2026-08-24,-0.2649
-TTD,"THE TRADE DESK, INC.",Communication Services,2026-08-24,-0.2644
-APP,APPLOVIN CORP,Information Technology,2026-08-24,-0.2458
-WDC,WESTERN DIGITAL ,Information Technology,2026-08-24,-0.2009
-NRG,"NRG ENERGY, INC.",Utilities,2026-08-24,-0.1676
-APTV,APTIV PLC,Consumer Discretionary,2026-08-24,-0.1617
-DDOG,"DATADOG, INC.",Information Technology,2026-08-24,-0.1575
-TPR,"TAPESTRY, INC.",Consumer Discretionary,2026-08-24,-0.1326
-VXN,CBOE NASDAQ MKT VOL NDX,Volatility,2026-08-24,-0.1273
+TTD,"THE TRADE DESK, INC.",Communication Services,2026-08-25,-0.2655
+DVA,DAVITA INC.,Health Care,2026-08-25,-0.2594
+GEOS,GEOSPACE TECHNOLOGIES ,MR Discretion,2026-08-25,-0.2353
+APP,APPLOVIN CORP,Information Technology,2026-08-25,-0.2156
+APTV,APTIV PLC,Consumer Discretionary,2026-08-25,-0.1743
+WDC,WESTERN DIGITAL ,Information Technology,2026-08-25,-0.1727
+DDOG,"DATADOG, INC.",Information Technology,2026-08-25,-0.1679
+VXN,CBOE NASDAQ MKT VOL NDX,Volatility,2026-08-25,-0.1619
+NRG,"NRG ENERGY, INC.",Utilities,2026-08-25,-0.154
+TPR,"TAPESTRY, INC.",Consumer Discretionary,2026-08-25,-0.146
