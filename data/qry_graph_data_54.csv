@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-08-25,257.5
-INTC,INTEL ,Information Technology,2026-08-25,178.76
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-08-25,88.88
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-08-25,88.04
-MRNA,"MODERNA, INC.",Health Care,2026-08-25,80.81
-TSLA,"TESLA, INC.",Consumer Discretionary,2026-08-25,69.01
-RIG,TRANSOCEAN LTD,MR Discretion,2026-08-25,67.03
-TLT,ISHARES:20+ TRS BD ETF,Bonds,2026-08-25,64.05
-WMT,WALMART INC.,Consumer Staples,2026-08-25,62.65
-QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-08-25,61.31
+NVDA,NVIDIA ,Information Technology,2026-08-26,437.4
+INTC,INTEL ,Information Technology,2026-08-26,254.51
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-08-26,121.76
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-08-26,117.38
+MRNA,"MODERNA, INC.",Health Care,2026-08-26,102.82
+NKE,"NIKE, INC.",Consumer Discretionary,2026-08-26,98.97
+TSLA,"TESLA, INC.",Consumer Discretionary,2026-08-26,97.58
+AAPL,APPLE INC.,Information Technology,2026-08-26,94.57
+WMT,WALMART INC.,Consumer Staples,2026-08-26,91.06
+PFE,PFIZER INC.,Health Care,2026-08-26,90.83
