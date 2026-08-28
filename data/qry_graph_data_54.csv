@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-08-26,437.4
-INTC,INTEL ,Information Technology,2026-08-26,254.51
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-08-26,121.76
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-08-26,117.38
-MRNA,"MODERNA, INC.",Health Care,2026-08-26,102.82
-NKE,"NIKE, INC.",Consumer Discretionary,2026-08-26,98.97
-TSLA,"TESLA, INC.",Consumer Discretionary,2026-08-26,97.58
-AAPL,APPLE INC.,Information Technology,2026-08-26,94.57
-WMT,WALMART INC.,Consumer Staples,2026-08-26,91.06
-PFE,PFIZER INC.,Health Care,2026-08-26,90.83
+NVDA,NVIDIA ,Information Technology,2026-08-27,736.31
+INTC,INTEL ,Information Technology,2026-08-27,355.07
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-08-27,163.43
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-08-27,155.05
+NKE,"NIKE, INC.",Consumer Discretionary,2026-08-27,135.54
+RIG,TRANSOCEAN LTD,MR Discretion,2026-08-27,134.82
+PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,2026-08-27,128.34
+MRNA,"MODERNA, INC.",Health Care,2026-08-27,127.82
+TSLA,"TESLA, INC.",Consumer Discretionary,2026-08-27,127.72
+AAPL,APPLE INC.,Information Technology,2026-08-27,126.99
