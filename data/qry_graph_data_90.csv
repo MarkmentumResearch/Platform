@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score,R/R Ratio
-NOW,"SERVICENOW, INC.",Information Technology,2026-08-27,-91.0,-8.2
-MSFT,MICROSOFT ,Information Technology,2026-08-27,-84.0,-6.5
-GEN,GEN DIGITAL INC.,Information Technology,2026-08-27,-81.0,-3.6
-BTU,PEABODY ENERGY ,MR Discretion,2026-08-27,-64.0,-4.0
-ADSK,"AUTODESK, INC.",Information Technology,2026-08-27,-53.0,-9.9
-PTC,PTC INC.,Information Technology,2026-08-27,-53.0,-3.7
-QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-08-27,-53.0,-4.1
-IWF,ISHARES:RUSS 1000 GR ETF,Sector & Style ETFs,2026-08-27,-48.0,-5.3
-VEEV,VEEVA SYSTEMS INC.,Health Care,2026-08-27,-30.0,-4.9
-APH,AMPHENOL ,Information Technology,2026-08-27,-29.0,-4.9
+MSFT,MICROSOFT ,Information Technology,2026-08-28,-91.0,-5.5
+NOW,"SERVICENOW, INC.",Information Technology,2026-08-28,-91.0,-18.7
+LULU,LULULEMON ATHLETICA INC.,Consumer Discretionary,2026-08-28,-54.0,-7.9
+GEN,GEN DIGITAL INC.,Information Technology,2026-08-28,-53.0,-3.7
+DBA,INVESCO DB MS AGRI,Commodities,2026-08-28,-43.0,-4.3
+STLA,STELLANTIS NV,MR Discretion,2026-08-28,-38.0,-6.3
+DPZ,"DOMINO'S PIZZA, INC.",Consumer Discretionary,2026-08-28,-33.0,-4.3
+NOV,NOV INC.,MR Discretion,2026-08-28,-30.0,-3.0
+FIS,FIDELITY NATIONAL INFORMATION SERVICES,Financials,2026-08-28,-26.0,-5.5
+SLB,SCHLUMBERGER N.V.,Energy,2026-08-28,-26.0,-7.6

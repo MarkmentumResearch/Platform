@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,daily_return_pct
-CRM,"SALESFORCE, INC.",Information Technology,2026-08-27,0.2258
-CRWD,"CROWDSTRIKE HOLDINGS, INC.",Information Technology,2026-08-27,0.205
-VEEV,VEEVA SYSTEMS INC.,Health Care,2026-08-27,0.152
-SNPS,"SYNOPSYS, INC.",Information Technology,2026-08-27,0.1339
-PANW,"PALO ALTO NETWORKS, INC.",Information Technology,2026-08-27,0.1283
-NOW,"SERVICENOW, INC.",Information Technology,2026-08-27,0.1004
-FTNT,"FORTINET, INC.",Information Technology,2026-08-27,0.0967
-NVDA,NVIDIA ,Information Technology,2026-08-27,0.0874
-BTU,PEABODY ENERGY ,MR Discretion,2026-08-27,0.0776
-DDOG,"DATADOG, INC.",Information Technology,2026-08-27,0.067
+WDAY,"WORKDAY, INC.",Information Technology,2026-08-28,0.0576
+DPZ,"DOMINO'S PIZZA, INC.",Consumer Discretionary,2026-08-28,0.054
+LULU,LULULEMON ATHLETICA INC.,Consumer Discretionary,2026-08-28,0.0505
+NOW,"SERVICENOW, INC.",Information Technology,2026-08-28,0.0454
+SLB,SCHLUMBERGER N.V.,Energy,2026-08-28,0.0422
+AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-08-28,0.0397
+CHTR,"CHARTER COMMUNICATIONS, INC.",Communication Services,2026-08-28,0.0357
+BG,BUNGE LIMITED,Consumer Staples,2026-08-28,0.035
+EXPE,"EXPEDIA GROUP, INC.",Consumer Discretionary,2026-08-28,0.033
+EBAY,EBAY INC.,Consumer Discretionary,2026-08-28,0.0328
