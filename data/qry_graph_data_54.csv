@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-08-28,931.42
-INTC,INTEL ,Information Technology,2026-08-28,441.24
-PCG,PG&E ,Utilities,2026-08-28,196.21
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-08-28,195.3
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-08-28,192.56
-RIG,TRANSOCEAN LTD,MR Discretion,2026-08-28,169.71
-AAPL,APPLE INC.,Information Technology,2026-08-28,165.64
-NKE,"NIKE, INC.",Consumer Discretionary,2026-08-28,163.98
-TSLA,"TESLA, INC.",Consumer Discretionary,2026-08-28,160.69
-AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-08-28,160.62
+PCG,PG&E ,Utilities,2026-08-31,154.04
+NVDA,NVIDIA ,Information Technology,2026-08-31,124.7
+INTC,INTEL ,Information Technology,2026-08-31,65.19
+TSLA,"TESLA, INC.",Consumer Discretionary,2026-08-31,61.73
+AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-08-31,46.09
+PFE,PFIZER INC.,Health Care,2026-08-31,45.93
+BAC,BANK OF AMERICA ,Financials,2026-08-31,43.47
+AAPL,APPLE INC.,Information Technology,2026-08-31,41.24
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-08-31,41.05
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-08-31,38.81

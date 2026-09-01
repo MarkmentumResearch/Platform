@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score_qtd_change,current_model_score,previous_model_score
-ARES,ARES MANAGEMENT CORP,Financials,2026-08-28,-151.0,-84.0,67.0
-SWKS,"SKYWORKS SOLUTIONS, INC.",Information Technology,2026-08-28,-124.0,-62.0,62.0
-BLK,"BLACKROCK, INC.",Financials,2026-08-28,-123.0,-43.0,80.0
-CMCSA,COMCAST ,Communication Services,2026-08-28,-118.0,-80.0,38.0
-CPAY,"FLEETCOR TECHNOLOGIES, INC.",Financials,2026-08-28,-118.0,-67.0,51.0
-MSFT,MICROSOFT ,Information Technology,2026-08-28,-118.0,-91.0,27.0
-NOW,"SERVICENOW, INC.",Information Technology,2026-08-28,-118.0,-91.0,27.0
-WDAY,"WORKDAY, INC.",Information Technology,2026-08-28,-118.0,-91.0,27.0
-INTU,INTUIT INC.,Information Technology,2026-08-28,-117.0,-43.0,74.0
-XLC,SEL SECTOR:COMM SVC SPDR,Sector & Style ETFs,2026-08-28,-113.0,-40.0,73.0
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-08-31,-130.0,-93.0,37.0
+SNPS,"SYNOPSYS, INC.",Information Technology,2026-08-31,-129.0,-85.0,44.0
+CPAY,"FLEETCOR TECHNOLOGIES, INC.",Financials,2026-08-31,-118.0,-67.0,51.0
+WDAY,"WORKDAY, INC.",Information Technology,2026-08-31,-115.0,-88.0,27.0
+ADSK,"AUTODESK, INC.",Information Technology,2026-08-31,-113.0,-88.0,25.0
+MSFT,MICROSOFT ,Information Technology,2026-08-31,-111.0,-84.0,27.0
+PFE,PFIZER INC.,Health Care,2026-08-31,-111.0,-70.0,41.0
+BLK,"BLACKROCK, INC.",Financials,2026-08-31,-107.0,-27.0,80.0
+NOW,"SERVICENOW, INC.",Information Technology,2026-08-31,-107.0,-80.0,27.0
+COIN,"COINBASE GLOBAL, INC.",Financials,2026-08-31,-105.0,-80.0,25.0

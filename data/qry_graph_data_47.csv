@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,change_pct
-IT,"GARTNER, INC.",Information Technology,2026-08-28,-0.2042
-TYL,"TYLER TECHNOLOGIES, INC.",Information Technology,2026-08-28,-0.1637
-CRM,"SALESFORCE, INC.",Information Technology,2026-08-28,-0.1568
-NOW,"SERVICENOW, INC.",Information Technology,2026-08-28,-0.1567
-ACN,ACCENTURE PUBLIC LIMITED COMPANY,Information Technology,2026-08-28,-0.1555
-ADBE,ADOBE INC.,Information Technology,2026-08-28,-0.1482
-CTSH,COGNIZANT TECHNOLOGY SOLUTIONS ,Information Technology,2026-08-28,-0.1374
-PSKY,PARAMOUNT SKYDANCE ,Communication Services,2026-08-28,-0.1305
-WDAY,"WORKDAY, INC.",Information Technology,2026-08-28,-0.1299
-INTU,INTUIT INC.,Information Technology,2026-08-28,-0.1288
+IT,"GARTNER, INC.",Information Technology,2026-08-31,-0.2031
+NOW,"SERVICENOW, INC.",Information Technology,2026-08-31,-0.1566
+ACN,ACCENTURE PUBLIC LIMITED COMPANY,Information Technology,2026-08-31,-0.1539
+ADBE,ADOBE INC.,Information Technology,2026-08-31,-0.1447
+CTSH,COGNIZANT TECHNOLOGY SOLUTIONS ,Information Technology,2026-08-31,-0.1411
+TYL,"TYLER TECHNOLOGIES, INC.",Information Technology,2026-08-31,-0.1397
+EPAM,"EPAM SYSTEMS, INC.",Information Technology,2026-08-31,-0.1376
+CRM,"SALESFORCE, INC.",Information Technology,2026-08-31,-0.1361
+INTU,INTUIT INC.,Information Technology,2026-08-31,-0.1318
+PSKY,PARAMOUNT SKYDANCE ,Communication Services,2026-08-31,-0.1274

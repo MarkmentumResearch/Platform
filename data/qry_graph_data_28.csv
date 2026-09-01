@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-08-28,195.12
-PCG,PG&E ,Utilities,2026-08-28,114.38
-INTC,INTEL ,Information Technology,2026-08-28,86.17
-AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-08-28,49.55
-MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-08-28,48.98
-GDX,VANECK:GOLD MINERS,Commodities,2026-08-28,41.06
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-08-28,40.25
-AAPL,APPLE INC.,Information Technology,2026-08-28,38.65
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-08-28,36.74
-PYPL,"PAYPAL HOLDINGS, INC.",Financials,2026-08-28,36.34
+PCG,PG&E ,Utilities,2026-08-31,154.04
+NVDA,NVIDIA ,Information Technology,2026-08-31,124.7
+INTC,INTEL ,Information Technology,2026-08-31,65.19
+TSLA,"TESLA, INC.",Consumer Discretionary,2026-08-31,61.73
+AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-08-31,46.09
+PFE,PFIZER INC.,Health Care,2026-08-31,45.93
+BAC,BANK OF AMERICA ,Financials,2026-08-31,43.47
+AAPL,APPLE INC.,Information Technology,2026-08-31,41.24
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-08-31,41.05
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-08-31,38.81
