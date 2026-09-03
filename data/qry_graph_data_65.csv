@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,qtd_return_pct
-KLAC,KLA ,Information Technology,2026-09-01,-0.4336
-GLW,CORNING INC.,Information Technology,2026-09-01,-0.4301
-APP,APPLOVIN CORP,Information Technology,2026-09-01,-0.3949
-AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-09-01,-0.3889
-GNRC,GENERAC HOLDINGS INC.,Industrials,2026-09-01,-0.3804
-INTC,INTEL ,Information Technology,2026-09-01,-0.3628
-LII,LENNOX INTERNATIONAL INC.,Industrials,2026-09-01,-0.3416
-FLEX,FLEX LTD.,Information Technology,2026-09-01,-0.3407
-LRCX,LAM RESEARCH ,Information Technology,2026-09-01,-0.3303
-SNDK,SANDISK CORPORATION,Information Technology,2026-09-01,-0.3241
+GLW,CORNING INC.,Information Technology,2026-09-02,-0.4357
+KLAC,KLA ,Information Technology,2026-09-02,-0.4291
+AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-09-02,-0.3936
+GNRC,GENERAC HOLDINGS INC.,Industrials,2026-09-02,-0.3827
+APP,APPLOVIN CORP,Information Technology,2026-09-02,-0.3808
+INTC,INTEL ,Information Technology,2026-09-02,-0.3551
+LII,LENNOX INTERNATIONAL INC.,Industrials,2026-09-02,-0.3472
+FLEX,FLEX LTD.,Information Technology,2026-09-02,-0.3463
+LRCX,LAM RESEARCH ,Information Technology,2026-09-02,-0.3346
+COHR,COHERENT CORP.,Information Technology,2026-09-02,-0.319
