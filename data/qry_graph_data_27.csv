@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,daily_return_pct
-APH,AMPHENOL ,Information Technology,2026-09-03,-0.4873
-CIEN,CIENA CORPORATION,Information Technology,2026-09-03,-0.1036
-HLX,"HELIX ENERGY SOLUTIONS GROUP, INC.",MR Discretion,2026-09-03,-0.091
-TSN,"TYSON FOODS, INC.",Consumer Staples,2026-09-03,-0.0726
-BTU,PEABODY ENERGY ,MR Discretion,2026-09-03,-0.0608
-TDW,TIDEWATER INC.,MR Discretion,2026-09-03,-0.0599
-VIX,CBOE MKT VOLATILITY IDX,Volatility,2026-09-03,-0.0579
-CNR,"CORE NATURAL RESOURCES, INC.",MR Discretion,2026-09-03,-0.0509
-GLATF,GLOBAL ATOMIC ,MR Discretion,2026-09-03,-0.05
-CHTR,"CHARTER COMMUNICATIONS, INC.",Communication Services,2026-09-03,-0.0477
+LULU,LULULEMON ATHLETICA INC.,Consumer Discretionary,2026-09-04,-0.1738
+FICO,FAIR ISAAC ,Information Technology,2026-09-04,-0.1668
+ADSK,"AUTODESK, INC.",Information Technology,2026-09-04,-0.0826
+ADBE,ADOBE INC.,Information Technology,2026-09-04,-0.0673
+EFX,EQUIFAX INC.,Industrials,2026-09-04,-0.0637
+PTC,PTC INC.,Information Technology,2026-09-04,-0.0604
+TSLA,"TESLA, INC.",Consumer Discretionary,2026-09-04,-0.0592
+SNPS,"SYNOPSYS, INC.",Information Technology,2026-09-04,-0.054
+WDAY,"WORKDAY, INC.",Information Technology,2026-09-04,-0.0538
+NFLX,"NETFLIX, INC.",Communication Services,2026-09-04,-0.0535

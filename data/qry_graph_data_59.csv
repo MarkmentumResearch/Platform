@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,mtd_return_pct
-APH,AMPHENOL ,Information Technology,2026-09-03,-0.4824
-CIEN,CIENA CORPORATION,Information Technology,2026-09-03,-0.1707
-PANW,"PALO ALTO NETWORKS, INC.",Information Technology,2026-09-03,-0.1313
-CDNS,"CADENCE DESIGN SYSTEMS, INC.",Information Technology,2026-09-03,-0.1001
-DDOG,"DATADOG, INC.",Information Technology,2026-09-03,-0.094
-HLX,"HELIX ENERGY SOLUTIONS GROUP, INC.",MR Discretion,2026-09-03,-0.0884
-FTNT,"FORTINET, INC.",Information Technology,2026-09-03,-0.0852
-ADSK,"AUTODESK, INC.",Information Technology,2026-09-03,-0.0813
-LITE,LUMENTUM HOLDINGS INC.,Information Technology,2026-09-03,-0.0737
-GLATF,GLOBAL ATOMIC ,MR Discretion,2026-09-03,-0.0732
+APH,AMPHENOL ,Information Technology,2026-09-04,-0.4779
+FICO,FAIR ISAAC ,Information Technology,2026-09-04,-0.1874
+LULU,LULULEMON ATHLETICA INC.,Consumer Discretionary,2026-09-04,-0.1634
+CIEN,CIENA CORPORATION,Information Technology,2026-09-04,-0.1614
+ADSK,"AUTODESK, INC.",Information Technology,2026-09-04,-0.1572
+CDNS,"CADENCE DESIGN SYSTEMS, INC.",Information Technology,2026-09-04,-0.136
+PANW,"PALO ALTO NETWORKS, INC.",Information Technology,2026-09-04,-0.1279
+HLX,"HELIX ENERGY SOLUTIONS GROUP, INC.",MR Discretion,2026-09-04,-0.1068
+SNPS,"SYNOPSYS, INC.",Information Technology,2026-09-04,-0.1041
+DDOG,"DATADOG, INC.",Information Technology,2026-09-04,-0.1017
