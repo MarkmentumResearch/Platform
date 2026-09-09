@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,qtd_return_pct
-APH,AMPHENOL ,Information Technology,2026-09-04,-0.5305
-GLW,CORNING INC.,Information Technology,2026-09-04,-0.3959
-KLAC,KLA ,Information Technology,2026-09-04,-0.3848
-APP,APPLOVIN CORP,Information Technology,2026-09-04,-0.3778
-AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-09-04,-0.3711
-GNRC,GENERAC HOLDINGS INC.,Industrials,2026-09-04,-0.3602
-CIEN,CIENA CORPORATION,Information Technology,2026-09-04,-0.3456
-FLEX,FLEX LTD.,Information Technology,2026-09-04,-0.3243
-LII,LENNOX INTERNATIONAL INC.,Industrials,2026-09-04,-0.3184
-INTC,INTEL ,Information Technology,2026-09-04,-0.3139
+APP,APPLOVIN CORP,Information Technology,2026-09-08,-0.3944
+KLAC,KLA ,Information Technology,2026-09-08,-0.3736
+GNRC,GENERAC HOLDINGS INC.,Industrials,2026-09-08,-0.3504
+GLW,CORNING INC.,Information Technology,2026-09-08,-0.3503
+AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-09-08,-0.3461
+LII,LENNOX INTERNATIONAL INC.,Industrials,2026-09-08,-0.3277
+CIEN,CIENA CORPORATION,Information Technology,2026-09-08,-0.3043
+BLDR,"BUILDERS FIRSTSOURCE, INC.",Industrials,2026-09-08,-0.3006
+FLEX,FLEX LTD.,Information Technology,2026-09-08,-0.2947
+NCLH,NORWEGIAN CRUISE LINE HOLDINGS LTD.,Consumer Discretionary,2026-09-08,-0.271

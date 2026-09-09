@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-09-04,135.35
-INTC,INTEL ,Information Technology,2026-09-04,97.65
-TSLA,"TESLA, INC.",Consumer Discretionary,2026-09-04,65.02
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-09-04,53.63
-PCG,PG&E ,Utilities,2026-09-04,46.99
-RIG,TRANSOCEAN LTD,MR Discretion,2026-09-04,40.66
-NFLX,"NETFLIX, INC.",Communication Services,2026-09-04,40.19
-AAPL,APPLE INC.,Information Technology,2026-09-04,39.61
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-09-04,39.29
-LULU,LULULEMON ATHLETICA INC.,Consumer Discretionary,2026-09-04,37.43
+INTC,INTEL ,Information Technology,2026-09-08,140.27
+NVDA,NVIDIA ,Information Technology,2026-09-08,122.97
+PCG,PG&E ,Utilities,2026-09-08,66.17
+TSLA,"TESLA, INC.",Consumer Discretionary,2026-09-08,51.08
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-09-08,46.66
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-09-08,44.75
+EWZ,ISHARES:MSCI BRAZIL,Foreign,2026-09-08,44.63
+RIG,TRANSOCEAN LTD,MR Discretion,2026-09-08,44.1
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-09-08,42.4
+T,AT&T INC.,Communication Services,2026-09-08,39.87

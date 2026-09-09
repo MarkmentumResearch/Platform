@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,daily_return_pct
-LULU,LULULEMON ATHLETICA INC.,Consumer Discretionary,2026-09-04,-0.1738
-FICO,FAIR ISAAC ,Information Technology,2026-09-04,-0.1668
-ADSK,"AUTODESK, INC.",Information Technology,2026-09-04,-0.0826
-ADBE,ADOBE INC.,Information Technology,2026-09-04,-0.0673
-EFX,EQUIFAX INC.,Industrials,2026-09-04,-0.0637
-PTC,PTC INC.,Information Technology,2026-09-04,-0.0604
-TSLA,"TESLA, INC.",Consumer Discretionary,2026-09-04,-0.0592
-SNPS,"SYNOPSYS, INC.",Information Technology,2026-09-04,-0.054
-WDAY,"WORKDAY, INC.",Information Technology,2026-09-04,-0.0538
-NFLX,"NETFLIX, INC.",Communication Services,2026-09-04,-0.0535
+HWM,HOWMET AEROSPACE INC.,Industrials,2026-09-08,-0.107
+AMGN,AMGEN INC.,Health Care,2026-09-08,-0.1008
+SYK,STRYKER ,Health Care,2026-09-08,-0.0881
+GDDY,GODADDY INC.,Information Technology,2026-09-08,-0.0832
+EXPE,"EXPEDIA GROUP, INC.",Consumer Discretionary,2026-09-08,-0.0788
+IT,"GARTNER, INC.",Information Technology,2026-09-08,-0.0742
+BKNG,BOOKING HOLDINGS INC.,Consumer Discretionary,2026-09-08,-0.0672
+BSX,BOSTON SCIENTIFIC ,Health Care,2026-09-08,-0.059
+FIS,FIDELITY NATIONAL INFORMATION SERVICES,Financials,2026-09-08,-0.059
+DLTR,"DOLLAR TREE, INC.",Consumer Staples,2026-09-08,-0.0562
