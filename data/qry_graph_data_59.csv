@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,mtd_return_pct
-FICO,FAIR ISAAC ,Information Technology,2026-09-08,-0.1865
-ADSK,"AUTODESK, INC.",Information Technology,2026-09-08,-0.1792
-CDNS,"CADENCE DESIGN SYSTEMS, INC.",Information Technology,2026-09-08,-0.1614
-SYK,STRYKER ,Health Care,2026-09-08,-0.1463
-PTC,PTC INC.,Information Technology,2026-09-08,-0.1443
-LULU,LULULEMON ATHLETICA INC.,Consumer Discretionary,2026-09-08,-0.1419
-DASH,"DOORDASH, INC.",Consumer Discretionary,2026-09-08,-0.1351
-EXPE,"EXPEDIA GROUP, INC.",Consumer Discretionary,2026-09-08,-0.1342
-IT,"GARTNER, INC.",Information Technology,2026-09-08,-0.1288
-ADBE,ADOBE INC.,Information Technology,2026-09-08,-0.1214
+ADSK,"AUTODESK, INC.",Information Technology,2026-09-09,-0.2008
+PTC,PTC INC.,Information Technology,2026-09-09,-0.1724
+LULU,LULULEMON ATHLETICA INC.,Consumer Discretionary,2026-09-09,-0.1708
+CASY,"CASEY'S GENERAL STORES, INC.",Consumer Staples,2026-09-09,-0.1638
+CDNS,"CADENCE DESIGN SYSTEMS, INC.",Information Technology,2026-09-09,-0.1599
+SYK,STRYKER ,Health Care,2026-09-09,-0.1495
+DASH,"DOORDASH, INC.",Consumer Discretionary,2026-09-09,-0.1488
+IT,"GARTNER, INC.",Information Technology,2026-09-09,-0.1435
+FICO,FAIR ISAAC ,Information Technology,2026-09-09,-0.143
+EXPE,"EXPEDIA GROUP, INC.",Consumer Discretionary,2026-09-09,-0.1404
