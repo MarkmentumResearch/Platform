@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,mtd_return_pct
-ADSK,"AUTODESK, INC.",Information Technology,2026-09-09,-0.2008
-PTC,PTC INC.,Information Technology,2026-09-09,-0.1724
-LULU,LULULEMON ATHLETICA INC.,Consumer Discretionary,2026-09-09,-0.1708
-CASY,"CASEY'S GENERAL STORES, INC.",Consumer Staples,2026-09-09,-0.1638
-CDNS,"CADENCE DESIGN SYSTEMS, INC.",Information Technology,2026-09-09,-0.1599
-SYK,STRYKER ,Health Care,2026-09-09,-0.1495
-DASH,"DOORDASH, INC.",Consumer Discretionary,2026-09-09,-0.1488
-IT,"GARTNER, INC.",Information Technology,2026-09-09,-0.1435
-FICO,FAIR ISAAC ,Information Technology,2026-09-09,-0.143
-EXPE,"EXPEDIA GROUP, INC.",Consumer Discretionary,2026-09-09,-0.1404
+COO,"THE COOPER COMPANIES, INC.",Health Care,2026-09-10,-0.2271
+LULU,LULULEMON ATHLETICA INC.,Consumer Discretionary,2026-09-10,-0.1944
+ADSK,"AUTODESK, INC.",Information Technology,2026-09-10,-0.1815
+PTC,PTC INC.,Information Technology,2026-09-10,-0.1735
+SYK,STRYKER ,Health Care,2026-09-10,-0.1661
+CASY,"CASEY'S GENERAL STORES, INC.",Consumer Staples,2026-09-10,-0.1656
+FICO,FAIR ISAAC ,Information Technology,2026-09-10,-0.1626
+FDS,FACTSET RESEARCH SYSTEMS INC.,Financials,2026-09-10,-0.1614
+CDNS,"CADENCE DESIGN SYSTEMS, INC.",Information Technology,2026-09-10,-0.1589
+AXON,"AXON ENTERPRISE, INC.",Industrials,2026-09-10,-0.1548
