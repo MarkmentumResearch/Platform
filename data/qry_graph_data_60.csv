@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-09-10,848.58
-INTC,INTEL ,Information Technology,2026-09-10,647.15
-PCG,PG&E ,Utilities,2026-09-10,538.25
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-09-10,351.77
-AAPL,APPLE INC.,Information Technology,2026-09-10,334.91
-TSLA,"TESLA, INC.",Consumer Discretionary,2026-09-10,312.08
-RIG,TRANSOCEAN LTD,MR Discretion,2026-09-10,310.12
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-09-10,268.58
-HPE,HEWLETT PACKARD ENTERPRISE COMPANY,Information Technology,2026-09-10,260.02
-T,AT&T INC.,Communication Services,2026-09-10,251.04
+NVDA,NVIDIA ,Information Technology,2026-09-11,937.64
+INTC,INTEL ,Information Technology,2026-09-11,734.14
+PCG,PG&E ,Utilities,2026-09-11,565.01
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-09-11,391.17
+AAPL,APPLE INC.,Information Technology,2026-09-11,385.62
+RIG,TRANSOCEAN LTD,MR Discretion,2026-09-11,344.7
+TSLA,"TESLA, INC.",Consumer Discretionary,2026-09-11,342.23
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-09-11,314.09
+ORCL,ORACLE ,Information Technology,2026-09-11,301.35
+HPE,HEWLETT PACKARD ENTERPRISE COMPANY,Information Technology,2026-09-11,299.07

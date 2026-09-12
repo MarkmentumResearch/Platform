@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score,R/R Ratio
-ISRG,"INTUITIVE SURGICAL, INC.",Health Care,2026-09-10,-55.0,-3.3
-MDLZ,"MONDELEZ INTERNATIONAL, INC.",Consumer Staples,2026-09-10,-31.0,-3.3
-VXN,CBOE NASDAQ MKT VOL NDX,Volatility,2026-09-10,-22.0,-7.7
-TNX,10 Y TSY YLD NDX,Yields,2026-09-10,-15.0,-6.3
-SWKS,"SKYWORKS SOLUTIONS, INC.",Information Technology,2026-09-10,-8.0,-7.2
-USO,UNITED STATES OIL FUND,Commodities,2026-09-10,-8.0,-9.3
-DVN,DEVON ENERGY ,Energy,2026-09-10,-5.0,-3.1
-COMT,ISHARES:GSCI COMM DYN RS,Commodities,2026-09-10,-2.0,-5.7
-FVX,5 YR TSY YLD NDX,Yields,2026-09-10,-1.0,-3.5
-PM,PHILIP MORRIS INTERNATIONAL INC.,Consumer Staples,2026-09-10,2.0,-3.8
+CDW,CDW ,Information Technology,2026-09-11,-79.0,-4.2
+CSGP,"COSTAR GROUP, INC.",Real Estate,2026-09-11,-79.0,-3.4
+IT,"GARTNER, INC.",Information Technology,2026-09-11,-58.0,-5.3
+FISV,"FISERV, INC.",Financials,2026-09-11,-49.0,-4.1
+FICO,FAIR ISAAC ,Information Technology,2026-09-11,-43.0,-3.1
+ACN,ACCENTURE PUBLIC LIMITED COMPANY,Information Technology,2026-09-11,-36.0,-3.0
+EXPE,"EXPEDIA GROUP, INC.",Consumer Discretionary,2026-09-11,-36.0,-3.5
+HPQ,HP INC.,Information Technology,2026-09-11,-35.0,-13.6
+EBAY,EBAY INC.,Consumer Discretionary,2026-09-11,-32.0,-5.7
+FOXA,FOX ,Communication Services,2026-09-11,-32.0,-6.5
