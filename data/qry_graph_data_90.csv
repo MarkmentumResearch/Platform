@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score,R/R Ratio
-CDW,CDW ,Information Technology,2026-09-11,-79.0,-4.2
-CSGP,"COSTAR GROUP, INC.",Real Estate,2026-09-11,-79.0,-3.4
-IT,"GARTNER, INC.",Information Technology,2026-09-11,-58.0,-5.3
-FISV,"FISERV, INC.",Financials,2026-09-11,-49.0,-4.1
-FICO,FAIR ISAAC ,Information Technology,2026-09-11,-43.0,-3.1
-ACN,ACCENTURE PUBLIC LIMITED COMPANY,Information Technology,2026-09-11,-36.0,-3.0
-EXPE,"EXPEDIA GROUP, INC.",Consumer Discretionary,2026-09-11,-36.0,-3.5
-HPQ,HP INC.,Information Technology,2026-09-11,-35.0,-13.6
-EBAY,EBAY INC.,Consumer Discretionary,2026-09-11,-32.0,-5.7
-FOXA,FOX ,Communication Services,2026-09-11,-32.0,-6.5
+PGR,THE PROGRESSIVE ,Financials,2026-09-14,-67.0,-3.7
+NVR,"NVR, INC.",Consumer Discretionary,2026-09-14,-55.0,-6.4
+IBM,INTERNATIONAL BUSINESS MACHINES ,Information Technology,2026-09-14,-53.0,-4.6
+ARE,"ALEXANDRIA REAL ESTATE EQUITIES, INC.",Real Estate,2026-09-14,-51.0,-3.2
+COIN,"COINBASE GLOBAL, INC.",Financials,2026-09-14,-50.0,-5.2
+GDDY,GODADDY INC.,Information Technology,2026-09-14,-50.0,-20.0
+UBER,"UBER TECHNOLOGIES, INC.",Industrials,2026-09-14,-47.0,-3.2
+CI,THE CIGNA GROUP,Health Care,2026-09-14,-46.0,-5.2
+DIS,THE WALT DISNEY COMPANY,Communication Services,2026-09-14,-46.0,-3.7
+XLC,SEL SECTOR:COMM SVC SPDR,Sector & Style ETFs,2026-09-14,-46.0,-6.1

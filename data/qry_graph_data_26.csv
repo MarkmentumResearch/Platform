@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,daily_return_pct
-HPE,HEWLETT PACKARD ENTERPRISE COMPANY,Information Technology,2026-09-11,0.1244
-DELL,DELL TECHNOLOGIES INC.,Information Technology,2026-09-11,0.1198
-NTAP,"NETAPP, INC.",Information Technology,2026-09-11,0.0854
-ON,ON SEMICONDUCTOR ,Information Technology,2026-09-11,0.0851
-HPQ,HP INC.,Information Technology,2026-09-11,0.084
-CDW,CDW ,Information Technology,2026-09-11,0.0785
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-09-11,0.0728
-FLEX,FLEX LTD.,Information Technology,2026-09-11,0.0719
-FIX,"COMFORT SYSTEMS USA, INC.",Industrials,2026-09-11,0.0629
-ANET,"ARISTA NETWORKS, INC.",Information Technology,2026-09-11,0.0561
+CRWD,"CROWDSTRIKE HOLDINGS, INC.",Information Technology,2026-09-14,0.1385
+PANW,"PALO ALTO NETWORKS, INC.",Information Technology,2026-09-14,0.1309
+IT,"GARTNER, INC.",Information Technology,2026-09-14,0.0973
+COIN,"COINBASE GLOBAL, INC.",Financials,2026-09-14,0.0924
+FTNT,"FORTINET, INC.",Information Technology,2026-09-14,0.0904
+VIX,CBOE MKT VOLATILITY IDX,Volatility,2026-09-14,0.0795
+ADSK,"AUTODESK, INC.",Information Technology,2026-09-14,0.0778
+NOW,"SERVICENOW, INC.",Information Technology,2026-09-14,0.0741
+CTSH,COGNIZANT TECHNOLOGY SOLUTIONS ,Information Technology,2026-09-14,0.0683
+TYL,"TYLER TECHNOLOGIES, INC.",Information Technology,2026-09-14,0.0679
