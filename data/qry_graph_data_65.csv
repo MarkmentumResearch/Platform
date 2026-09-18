@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,qtd_return_pct
-KLAC,KLA ,Information Technology,2026-09-16,-0.4453
-GLW,CORNING INC.,Information Technology,2026-09-16,-0.4356
-AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-09-16,-0.4255
-GNRC,GENERAC HOLDINGS INC.,Industrials,2026-09-16,-0.402
-LRCX,LAM RESEARCH ,Information Technology,2026-09-16,-0.3787
-LII,LENNOX INTERNATIONAL INC.,Industrials,2026-09-16,-0.3699
-APP,APPLOVIN CORP,Information Technology,2026-09-16,-0.3662
-WDC,WESTERN DIGITAL ,Information Technology,2026-09-16,-0.3472
-FLEX,FLEX LTD.,Information Technology,2026-09-16,-0.3342
-BLDR,"BUILDERS FIRSTSOURCE, INC.",Industrials,2026-09-16,-0.3334
+KLAC,KLA ,Information Technology,2026-09-17,-0.4399
+AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-09-17,-0.4227
+GLW,CORNING INC.,Information Technology,2026-09-17,-0.4214
+LRCX,LAM RESEARCH ,Information Technology,2026-09-17,-0.3785
+APP,APPLOVIN CORP,Information Technology,2026-09-17,-0.3758
+LII,LENNOX INTERNATIONAL INC.,Industrials,2026-09-17,-0.3733
+BLDR,"BUILDERS FIRSTSOURCE, INC.",Industrials,2026-09-17,-0.3554
+WDC,WESTERN DIGITAL ,Information Technology,2026-09-17,-0.3364
+FLEX,FLEX LTD.,Information Technology,2026-09-17,-0.3273
+NCLH,NORWEGIAN CRUISE LINE HOLDINGS LTD.,Consumer Discretionary,2026-09-17,-0.3183
