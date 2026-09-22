@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-09-18,190.29
-INTC,INTEL ,Information Technology,2026-09-18,175.0
-TTD,"THE TRADE DESK, INC.",Communication Services,2026-09-18,149.24
-NFLX,"NETFLIX, INC.",Communication Services,2026-09-18,114.41
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-09-18,111.38
-AAPL,APPLE INC.,Information Technology,2026-09-18,86.59
-T,AT&T INC.,Communication Services,2026-09-18,84.4
-PSKY,PARAMOUNT SKYDANCE ,Communication Services,2026-09-18,79.0
-PFE,PFIZER INC.,Health Care,2026-09-18,75.59
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-09-18,65.4
+WBD,"WARNER BROS. DISCOVERY, INC.",Communication Services,2026-09-21,234.09
+INTC,INTEL ,Information Technology,2026-09-21,191.64
+NVDA,NVIDIA ,Information Technology,2026-09-21,109.81
+PSKY,PARAMOUNT SKYDANCE ,Communication Services,2026-09-21,66.17
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-09-21,50.48
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-09-21,50.08
+META,"META PLATFORMS, INC.",Communication Services,2026-09-21,48.72
+PCG,PG&E ,Utilities,2026-09-21,48.39
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-09-21,48.22
+QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-09-21,46.73
