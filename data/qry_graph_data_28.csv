@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-WBD,"WARNER BROS. DISCOVERY, INC.",Communication Services,2026-09-21,234.09
-INTC,INTEL ,Information Technology,2026-09-21,191.64
-NVDA,NVIDIA ,Information Technology,2026-09-21,109.81
-PSKY,PARAMOUNT SKYDANCE ,Communication Services,2026-09-21,66.17
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-09-21,50.48
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-09-21,50.08
-META,"META PLATFORMS, INC.",Communication Services,2026-09-21,48.72
-PCG,PG&E ,Utilities,2026-09-21,48.39
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-09-21,48.22
-QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-09-21,46.73
+WBD,"WARNER BROS. DISCOVERY, INC.",Communication Services,2026-09-22,109.82
+INTC,INTEL ,Information Technology,2026-09-22,108.38
+NVDA,NVIDIA ,Information Technology,2026-09-22,95.75
+XLF,SEL SECTOR:FINL S SPDR,Sector & Style ETFs,2026-09-22,69.84
+RIG,TRANSOCEAN LTD,MR Discretion,2026-09-22,61.28
+PCG,PG&E ,Utilities,2026-09-22,60.75
+PSKY,PARAMOUNT SKYDANCE ,Communication Services,2026-09-22,46.41
+UNG,UNITED STATES NAT GAS,Commodities,2026-09-22,45.56
+CMCSA,COMCAST ,Communication Services,2026-09-22,45.15
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-09-22,45.15
