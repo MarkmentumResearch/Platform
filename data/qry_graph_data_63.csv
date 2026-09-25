@@ -1,6 +1,6 @@
 Score_Bin,TickerCount
 Below -100,1
--100 to -26,124
--25 to 25,242
-26 to 100,263
-Above 100,23
+-100 to -26,129
+-25 to 25,263
+26 to 100,242
+Above 100,18

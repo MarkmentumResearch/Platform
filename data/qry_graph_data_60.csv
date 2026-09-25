@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-09-23,1834.11
-INTC,INTEL ,Information Technology,2026-09-23,1745.88
-PCG,PG&E ,Utilities,2026-09-23,880.05
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-09-23,809.96
-RIG,TRANSOCEAN LTD,MR Discretion,2026-09-23,734.43
-AAPL,APPLE INC.,Information Technology,2026-09-23,723.28
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-09-23,718.76
-WBD,"WARNER BROS. DISCOVERY, INC.",Communication Services,2026-09-23,706.67
-T,AT&T INC.,Communication Services,2026-09-23,644.0
-HYG,ISHARES:IBOXX $HY CORP,Bonds,2026-09-23,642.51
+NVDA,NVIDIA ,Information Technology,2026-09-24,1911.58
+INTC,INTEL ,Information Technology,2026-09-24,1865.18
+PCG,PG&E ,Utilities,2026-09-24,922.71
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-09-24,862.26
+RIG,TRANSOCEAN LTD,MR Discretion,2026-09-24,777.1
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-09-24,762.75
+WBD,"WARNER BROS. DISCOVERY, INC.",Communication Services,2026-09-24,752.78
+AAPL,APPLE INC.,Information Technology,2026-09-24,748.01
+HYG,ISHARES:IBOXX $HY CORP,Bonds,2026-09-24,717.49
+T,AT&T INC.,Communication Services,2026-09-24,678.22
