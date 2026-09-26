@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score
-CVNA,CARVANA CO.,Consumer Discretionary,2026-09-24,-75.0
-RVTY,"REVVITY, INC.",Health Care,2026-09-24,-69.0
-SCHP,SCHWAB STR:US TIPS,Bonds,2026-09-24,-54.0
-ABBV,ABBVIE INC.,Health Care,2026-09-24,-52.0
-AES,THE AES ,Utilities,2026-09-24,-51.0
-CSGP,"COSTAR GROUP, INC.",Real Estate,2026-09-24,-51.0
-SWKS,"SKYWORKS SOLUTIONS, INC.",Information Technology,2026-09-24,-51.0
-TSLA,"TESLA, INC.",Consumer Discretionary,2026-09-24,-50.0
-HIG,THE HARTFORD FINANCIAL SERVICES GROUP,Financials,2026-09-24,-48.0
-BBY,"BEST BUY CO., INC.",Consumer Discretionary,2026-09-24,-47.0
+NVR,"NVR, INC.",Consumer Discretionary,2026-09-25,-77.0
+META,"META PLATFORMS, INC.",Communication Services,2026-09-25,-70.0
+TECH,BIO-TECHNE ,Health Care,2026-09-25,-69.0
+RVTY,"REVVITY, INC.",Health Care,2026-09-25,-67.0
+CVNA,CARVANA CO.,Consumer Discretionary,2026-09-25,-62.0
+EWL,ISHARES:MSCI SWITZERLAND,Foreign,2026-09-25,-61.0
+FICO,FAIR ISAAC ,Information Technology,2026-09-25,-60.0
+TSLA,"TESLA, INC.",Consumer Discretionary,2026-09-25,-57.0
+HOOD,"ROBINHOOD MARKETS, INC.",Financials,2026-09-25,-53.0
+ABBV,ABBVIE INC.,Health Care,2026-09-25,-52.0
